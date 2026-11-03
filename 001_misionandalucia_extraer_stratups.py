@@ -30,7 +30,7 @@ PY_NAME = (os.environ['PY_NAME'])
 
 py_full_version = f"{sys.version_info.major}.{sys.version_info.minor}.{sys.version_info.micro}"
 py_version = sys.version_info.major
-_DBG = True
+_DBG = False
 
 if _DBG:
   print(f"\n  Python: {py_full_version}")
@@ -51,7 +51,11 @@ import helper as hlp
 import helper_pd as hpd
 import coloriza as cl
 
-#import argparse
+# Límite de vesrión Python
+if sys.version_info[:2] <= (3,10):
+  print(f"\nSe requiere Python 3.12+, la versión actual es {py_full_version}")
+  sys.exit(1)
+
 import requests
 from urllib.parse import urljoin
 import warnings
@@ -282,9 +286,9 @@ def main():
 
 if __name__ == '__main__':
 
-  if py_version < 3:
-    version = "%s.%s.%s" % (sys.version_info.major, sys.version_info.minor, sys.version_info.micro)
-    print("Se requiere Python 3, la versión actual es %s" % (version))
+#  if py_version < 3:
+  if sys.version_info[:2] <= (3,10):
+    print(f"\nSe requiere Python 3.12+, la versión actual es {py_full_version}")
     sys.exit(1)
 
   print(f"Python: {py_full_version}\n")
