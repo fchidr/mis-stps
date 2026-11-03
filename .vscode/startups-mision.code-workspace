@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+  ],
+  "settings": {
+    "python.defaultInterpreterPath": "C:/Python/Python312/python/python.exe",
+    "extensions.ignoreRecommendations": true,
+    "python-envs.defaultEnvManager": "ms-python.python:system"
+  }
+}
