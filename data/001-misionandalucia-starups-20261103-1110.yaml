@@ -1,0 +1,2419 @@
+- startup: Venturi Technologies
+  node_id: '91'
+  enlace_drupal: /startup/venturi-technologies
+  logo: /sites/default/files/2025-08/Logo_Venturi.jpg
+  etiqueta: Agrotech
+  etiqueta_url: /taxonomy/term/11
+  descripcion: 'Venturi Technologies desarrolla una infraestructura tecnológica para
+    la agricultura de precisión basada en tres pilares: nodos IoT, plataforma para
+    la toma de decisiones y formación para facilitar la adopción en el sector.'
+  descripcion_larga: Digitalización de fincas agrícolas para toma de decisiones agronómicas
+    basadas en datos
+  video: ''
+  web: https://venturi.ag/
+  trabajadores:
+  - nombre: Miguel García Romero
+    cargo: CEO y cofundador
+    linkedin: ''
+    imagen: ''
+  - nombre: Juan Carlos Chaves Puertas
+    cargo: CTO y cofundador
+    linkedin: ''
+    imagen: ''
+  - nombre: Francisco Javier Romero Maldonado
+    cargo: Advisor
+    linkedin: ''
+    imagen: ''
+  - nombre: Álvaro López Jiménez
+    cargo: CISO
+    linkedin: ''
+    imagen: ''
+  - nombre: Iria Roldán Suárez
+    cargo: Alumno en prácticas
+    linkedin: ''
+    imagen: ''
+  - nombre: Jorge Cano Melero
+    cargo: Alumno en prácticas
+    linkedin: ''
+    imagen: ''
+- startup: HYBRIOTECH
+  node_id: '92'
+  enlace_drupal: /startup/hybriotech
+  logo: /sites/default/files/2025-08/Logo_Hybriotech.png
+  etiqueta: Agrotech
+  etiqueta_url: /taxonomy/term/11
+  descripcion: Tecnología enzimática patentada que hibrida moléculas naturales para
+    crear biopesticidas de alta eficacia y persistencia
+  descripcion_larga: Hybriotech presenta una tecnología enzimática y química para
+    la que se ha solicitado protección mediante patente, demostrando ser novedosa
+    y única. Esta tecnología se basa en la hibridación de moléculas naturales para
+    la obtención de nuevas entidades moleculares no descritas en la naturaleza con
+    eficacias y performance mejorada respecto a las de partida
+  video: /sites/default/files/2026-02/hydronext.MP4
+  web: ''
+  trabajadores: []
+- startup: PLUTÓN
+  node_id: '93'
+  enlace_drupal: /startup/pluton
+  logo: /sites/default/files/2025-08/Logo_Pluton.png
+  etiqueta: Agrotech
+  etiqueta_url: /taxonomy/term/11
+  descripcion: Robot autónomo para la fumigación de cultivos bajo pl·stico de forma
+    teledirigida, presentado distintas ventajas tales como evitar la exposición del
+    trabajador a productos peligrosos, uniformidad del tratamiento y ahorro en gastos
+    de personal
+  descripcion_larga: Maquinaria agrícola inteligente, conectada y modular para agricultores
+    mediterráneos.
+  video: /sites/default/files/2025-08/Entrevista%20Pluton.mp4
+  web: ''
+  trabajadores:
+  - nombre: Francisco Jesús Cantón Callejón
+    cargo: CTO y co-fundador
+    linkedin: ''
+    imagen: ''
+  - nombre: Salvador Castillo Montoro
+    cargo: CEO y cofundador
+    linkedin: ''
+    imagen: ''
+- startup: Salix Labs
+  node_id: '94'
+  enlace_drupal: /startup/salix-labs
+  logo: /sites/default/files/2025-08/Logo_Salix.png
+  etiqueta: Agrotech
+  etiqueta_url: /taxonomy/term/11
+  descripcion: Utiliza IA y biotech para diseñar proteÌnas para detectar patógenos.
+    Permite optimizar el diseño de moléculas dianas específicas para desarrollar tests
+    frente a los patógenos más comunes en cultivos.
+  descripcion_larga: Detección precoz de enfermedades en cultivos mediante VOCs
+  video: ''
+  web: ''
+  trabajadores:
+  - nombre: Eduardo López Herrada
+    cargo: Fundador
+    linkedin: ''
+    imagen: ''
+- startup: Inbiota SCA
+  node_id: '95'
+  enlace_drupal: /startup/inbiota_sca
+  logo: /sites/default/files/2025-08/Logo_Inbiota.png
+  etiqueta: Agrotech
+  etiqueta_url: /taxonomy/term/11
+  descripcion: Impulsa la transformación agrÌcola mediante soluciones biológicas sostenibles
+    basadas en microorganismos beneficiosos. Su propuesta de valor se centra en ofrecer
+    bioinsumos personalizados y asesoramiento técnico y formación en prácticas agrícolas
+    ecológicas.
+  descripcion_larga: Bioinsumos personalizados con microorganismos nativos para regenerar
+    suelos y mejorar la salud vegetal.
+  video: /sites/default/files/2026-02/inbiota.MP4
+  web: https://inbiota.com/
+  trabajadores:
+  - nombre: Antonio Javier Vargas Rodríguez
+    cargo: Co-fundador
+    linkedin: ''
+    imagen: ''
+  - nombre: Luz Angélica Nieto González
+    cargo: Co-fundador
+    linkedin: ''
+    imagen: ''
+  - nombre: Francisco José Martín Belmonte
+    cargo: COO
+    linkedin: ''
+    imagen: ''
+  - nombre: Alejandro López Martín
+    cargo: CSO
+    linkedin: ''
+    imagen: ''
+- startup: Urban grove
+  node_id: '96'
+  enlace_drupal: /startup/urban-grove
+  logo: /sites/default/files/2025-08/Logo_Urban.png
+  etiqueta: Agrotech
+  etiqueta_url: /taxonomy/term/11
+  descripcion: Propone un sistema de cultivo hidropónico vertical y modular, diseñado
+    para instalarse fácilmente en ventanas de cualquier edificación urbana
+  descripcion_larga: Sistema modular y tecnificado para integrar vegetación en entornos
+    urbanos
+  video: ''
+  web: ''
+  trabajadores:
+  - nombre: Rai Criado Barrrah
+    cargo: Fundador
+    linkedin: ''
+    imagen: ''
+- startup: Pura Terra
+  node_id: '97'
+  enlace_drupal: /startup/pura-terra
+  logo: /sites/default/files/2025-08/Logo_Puraterra.png
+  etiqueta: Agrotech
+  etiqueta_url: /taxonomy/term/11
+  descripcion: Proceso de destrío para reducir el desperdicio alimentario transformando
+    éste en nuevos productos dándoles nueva vida en forma de conservas y subproductos
+    promoviendo la sostenibilidad, la soberanía alimentaria y el desarrollo social
+    y económico del territorrio.
+  descripcion_larga: Revalorización de destrío agroalimentario.
+  video: /sites/default/files/2026-10/Pura%20Terra.mp4
+  web: ''
+  trabajadores:
+  - nombre: Miguel Ruiz Ramirez
+    cargo: Co-fundador
+    linkedin: ''
+    imagen: ''
+  - nombre: Marta Águila González
+    cargo: Co-fundador
+    linkedin: ''
+    imagen: ''
+  - nombre: Mario Petersen Gálvez
+    cargo: Co-fundador
+    linkedin: ''
+    imagen: ''
+  - nombre: Alberto Del Águila González
+    cargo: Co-fundador
+    linkedin: ''
+    imagen: ''
+- startup: Orus Logistics
+  node_id: '98'
+  enlace_drupal: /startup/orus-logistics
+  logo: /sites/default/files/2025-08/Logo_Orus.png
+  etiqueta: Agrotech
+  etiqueta_url: /taxonomy/term/11
+  descripcion: Plataforma que permite el seguimiento y la comunicación de los pedidos
+    entre el exportador, transporte y cliente final, una trazabilidad que reduce costos
+    y proporciona seguimiento en tiempo real.
+  descripcion_larga: Plataforma SaaS para trazabilidad y comunicación bidireccional
+    en logística hortofrutícola.
+  video: /sites/default/files/2026-10/JUAN_JOSE%CC%81_BARRIONUEVO.mov
+  web: https://www.oruslogistics.es/
+  trabajadores:
+  - nombre: Juan José Barrionuevo Peña
+    cargo: Fundador
+    linkedin: ''
+    imagen: ''
+- startup: Fruteka Technology SL
+  node_id: '99'
+  enlace_drupal: /startup/fruteka_technology
+  logo: /sites/default/files/2025-08/Logo_Fruteka.jpg
+  etiqueta: Agrotech
+  etiqueta_url: /taxonomy/term/11
+  descripcion: Marketplace digital B2B&B2C que conecta productores y compradores de
+    frutas y hortalizas con logística integrada
+  descripcion_larga: 'Fruteka ha creado un marketplace digital B2B&B2C donde se conectan
+    productores, distribuidores, mayoristas y compradores de frutas y hortalizas.
+    Su plataforma permite: Publicar y buscar productos en tiempo real. Negociar precios
+    y cantidades directamente entre partes. Centralizar la compraventa en un entorno
+    seguro, transparente y digital. Agilizar la logística, integrando soluciones de
+    transporte para facilitar entregas rápidas. Digitalizar el proceso de compra-venta,
+    eliminando la necesidad de intermediarios tradicionales.'
+  video: /sites/default/files/2025-08/Entrevista%20Fruteka.mp4
+  web: ''
+  trabajadores:
+  - nombre: Genaro Espín Martín
+    cargo: CEO y cofundador
+    linkedin: ''
+    imagen: ''
+  - nombre: Rafael Peña Alcaide
+    cargo: Co-fundador y CCO
+    linkedin: ''
+    imagen: ''
+  - nombre: Manuel Outeiriño Barneto
+    cargo: CTO
+    linkedin: ''
+    imagen: ''
+- startup: Ocbo
+  node_id: '100'
+  enlace_drupal: /startup/ocbo
+  logo: /sites/default/files/2025-08/Logo%20ocbo%20%282%29.png
+  etiqueta: Logística Portuaria
+  etiqueta_url: /taxonomy/term/1
+  descripcion: Plataforma SaaS que automatiza la generación y gestión de documentos
+    para el comercio internacional, reduciendo errores y agilizando los procesos de
+    exportación e importación.
+  descripcion_larga: Plataforma SaaS que automatiza la generación y gestión de documentos
+    para el comercio internacional, reduciendo errores y agilizando los procesos de
+    exportación e importación
+  video: /sites/default/files/2025-08/Entrevista%20Ocbo.mp4
+  web: https://www.ocbo.io/
+  trabajadores:
+  - nombre: Iñigo Goizueta
+    cargo: Co-fundador
+    linkedin: ''
+    imagen: ''
+  - nombre: Pablo García Calvo
+    cargo: Co-fundador
+    linkedin: ''
+    imagen: ''
+- startup: SoleaCooling (Solaheat)
+  node_id: '101'
+  enlace_drupal: /startup/soleacooling-solaheat
+  logo: /sites/default/files/2025-08/soleaheat.png
+  etiqueta: Logística Portuaria
+  etiqueta_url: /taxonomy/term/1
+  descripcion: Integra tecnología de concentración termosolar low-cost y de alta eficiencia
+    con sistemas de refrigeración y congelación para el sector de la logística del
+    frío. Nuestra propuesta de valor es el suministro de energía térmica de cero emisiones
+    a precios competitivos.
+  descripcion_larga: Soluciones energéticas llave-en mano y servicios auxiliares para
+    suministrar calor de proceso a media temperatura (entre los 100 y 250 °C) que
+    evita emisiones y costes variables asociados al consumo de combustibles. Ofrece
+    una alternativa a los combustibles, contribuye a la descarbonización de la demanda
+    térmica y provee calor a bajo coste para industrias como la acuicultura y las
+    salineras.
+  video: /sites/default/files/2025-08/Entrevista%20Soleaheat.mp4
+  web: https://soleaheat.com/
+  trabajadores:
+  - nombre: Borja Flagg
+    cargo: Fundador
+    linkedin: ''
+    imagen: ''
+- startup: Torbellino Tech
+  node_id: '102'
+  enlace_drupal: /startup/torbellino-tech
+  logo: /sites/default/files/2025-08/torbellino%20tech.png
+  etiqueta: Logística Portuaria
+  etiqueta_url: /taxonomy/term/1
+  descripcion: Fusiona inteligencia artificial y blockchain para redefinir el concepto
+    de valor económico mediante sistemas distribuidos inteligentes
+  descripcion_larga: Facilita la automatización de procesos y la reducción de riesgos
+    mediante soluciones de software personalizadas basadas en Inteligencia Artificial
+    y Blockchain, lo cual incrementa la productividad yreduce los costes operativos
+    en entornos de alta escala ycomplejidad
+  video: /sites/default/files/2026-10/JUAN%20D%C3%8DEZ-TORBELLINO%20TECH%20HQ.mov
+  web: https://www.torbellino.tech/
+  trabajadores:
+  - nombre: Juan Diez
+    cargo: Fundador
+    linkedin: ''
+    imagen: ''
+- startup: Eonsea
+  node_id: '103'
+  enlace_drupal: /startup/eonsea
+  logo: /sites/default/files/2025-08/EON-SEA.jpg
+  etiqueta: Logística Portuaria
+  etiqueta_url: /taxonomy/term/1
+  descripcion: Servicio de inspección subacuática mediante robótica e IA para infraestructuras
+    sumergidas con mayor seguridad y precisión
+  descripcion_larga: La startup ofrece un servicio de inspección subacuática avanzada
+    mediante el uso de robótica e inteligencia artificial, que permite evaluar el
+    estado de activos sumergidos de forma más eficiente, segura y con mayor precisión.La
+    robótica permite realizar exploraciones en condiciones adversas o de difícil acceso,
+    mientras que la inteligencia artificial analiza los datos captados (imágenes,
+    sensores, estructuras) para detectar anomalías, generar reportes automáticos y
+    prever necesidades de mantenimiento.El uso combinado de robots especializados
+    con sistemas de análisis por IA reduce el tiempo de inspección, elimina el riesgo
+    humano directo y optimiza el ciclo de mantenimiento predictivo de infraestructuras
+    críticas.
+  video: /sites/default/files/2025-08/Entrevista%20Eonsea.mp4
+  web: https://eon-sea.com/
+  trabajadores:
+  - nombre: David Pinto
+    cargo: Co-fundador
+    linkedin: ''
+    imagen: ''
+  - nombre: Camila Rodrigues
+    cargo: Co-fundador
+    linkedin: ''
+    imagen: ''
+- startup: Synnect
+  node_id: '104'
+  enlace_drupal: /startup/synnect
+  logo: /sites/default/files/2025-08/Synnect.png
+  etiqueta: Logística Portuaria
+  etiqueta_url: /taxonomy/term/1
+  descripcion: Facilita la interoperabilidad y explotación de datos en tiempo real,
+    integrando tecnología operativa (OT) e inform·tica (IT) para optimizar la toma
+    de decisiones en empresas industriales.
+  descripcion_larga: Facilita la interoperabilidad y explotación de datos en tiempo
+    real, integrando tecnología operativa (OT) e informática (IT) para optimizar la
+    toma de decisiones en empresas industriales.
+  video: /sites/default/files/2025-08/Entrevista%20Synnect.mp4
+  web: https://synnect.es/
+  trabajadores:
+  - nombre: Pablo López
+    cargo: Co-fundador
+    linkedin: ''
+    imagen: ''
+  - nombre: Beltrán Blazquez
+    cargo: Co-fundador
+    linkedin: ''
+    imagen: ''
+  - nombre: Javier Barbas
+    cargo: Co-fundador
+    linkedin: ''
+    imagen: ''
+- startup: Skypro 360
+  node_id: '105'
+  enlace_drupal: /startup/skypro-360
+  logo: /sites/default/files/2025-08/skywash%20-skypro%20360%20logo.jpg
+  etiqueta: SmartMobility
+  etiqueta_url: /taxonomy/term/13
+  descripcion: Solución innovadora para la limpieza y el mantenimiento de edificios
+    e infraestructuras usando drones, inteligencia artificial y recubrimientos especiales
+  descripcion_larga: Limpieza y mantenimiento de infraestructuras con drones, IA y
+    nano-recubrimientos para reducir riesgos laborales, costes y huella ambiental
+  video: /sites/default/files/2026-10/FERENCZ%20STEFAN-SKYPRO%20360%20HQ.mov
+  web: ''
+  trabajadores:
+  - nombre: Ferenz Stefan
+    cargo: Co-fundador
+    linkedin: ''
+    imagen: ''
+  - nombre: Luis Durán
+    cargo: Co-fundador
+    linkedin: ''
+    imagen: ''
+- startup: ZETT
+  node_id: '106'
+  enlace_drupal: /startup/zett
+  logo: /sites/default/files/2025-08/ZETT.png
+  etiqueta: SmartMobility
+  etiqueta_url: /taxonomy/term/13
+  descripcion: Solución innovadora para la limpieza y el mantenimiento de edificios
+    e infraestructuras usando drones, inteligencia artificial y recubrimientos especiales.
+  descripcion_larga: Plataforma de transporte a demanda con vehículos eléctricos y
+    adaptados para personas en silla de ruedas. Movilidad sostenible e inclusiva,
+    única en España.
+  video: /sites/default/files/2025-08/Entrevista%20Zett.mp4
+  web: https://www.zett.es/
+  trabajadores:
+  - nombre: Awara Naib Hidait
+    cargo: CEO
+    linkedin: ''
+    imagen: ''
+  - nombre: Rocío González Rodríguez
+    cargo: Business Development Manager
+    linkedin: ''
+    imagen: ''
+- startup: Ciclos Preciso
+  node_id: '107'
+  enlace_drupal: /startup/ciclos-preciso
+  logo: /sites/default/files/2025-08/Ciclos%20Preciso.png
+  etiqueta: SmartMobility
+  etiqueta_url: /taxonomy/term/13
+  descripcion: Ciclos Preciso ofrece un sensor inteligente conectado a una plataforma
+    24/7 para controlar el consumo de combustible, detectar robos y reducir emisiones
+    en flotas de transporte. Su sistema permite tomar decisiones en tiempo real, optimizando
+    costes y reduciendo la huella ambiental. Es una herramienta clave para empresas
+    de logística que buscan eficiencia operativa y sostenibilidad.
+  descripcion_larga: Sensor inteligente instalado en tanques de combustible que monitoriza
+    en tiempo real consumo, robos y huella de carbono en transporte y logística
+  video: /sites/default/files/2025-08/Entrevista%20Ciclos%20Preciso.mp4
+  web: ''
+  trabajadores:
+  - nombre: Isaac Morales
+    cargo: Co-fundador
+    linkedin: ''
+    imagen: ''
+  - nombre: Javier Rial
+    cargo: Co-fundador
+    linkedin: ''
+    imagen: ''
+- startup: Curb
+  node_id: '108'
+  enlace_drupal: /startup/curb
+  logo: /sites/default/files/2025-08/Curb.png
+  etiqueta: SmartMobility
+  etiqueta_url: /taxonomy/term/13
+  descripcion: Plataforma colaborativa que ayuda a conductores a encontrar aparcamiento
+    y a las ciudades a reducir congestión y emisiones. Integra datos ciudadanos, privados
+    y públicos para prever disponibilidad y recomendar la mejor estrategia de aparcamiento.
+    Contribuye a una movilidad urbana más eficiente y sostenible
+  descripcion_larga: Plataforma colaborativa que predice disponibilidad de aparcamiento
+    y optimiza la estrategia de estacionamiento para reducir tráfico y emisiones urbanas
+  video: /sites/default/files/2025-08/Entrevista%20Curb.mp4
+  web: https://curb-parking.com/
+  trabajadores:
+  - nombre: Giusj Digioia
+    cargo: CEO
+    linkedin: ''
+    imagen: ''
+  - nombre: Francesco Paolo Burruano
+    cargo: Inversor
+    linkedin: ''
+    imagen: ''
+- startup: Elevenais
+  node_id: '110'
+  enlace_drupal: /startup/elevenais
+  logo: /sites/default/files/2025-08/logo%20elevenais%20%282%29.png
+  etiqueta: SmartMobility
+  etiqueta_url: /taxonomy/term/13
+  descripcion: Sistema de captura de imágenes verificables con geolocalización para
+    digitalizar y autentificar eventos en operativa urbana
+  descripcion_larga: Elevenais digitaliza y autentifica visualmente eventos clave
+    en la operativa urbana y logística mediante un sistema de captura de imágenes
+    verificables con su app. Su tecnología permite registrar con precisión lo que
+    ocurre —por ejemplo, durante una entrega, una incidencia con un vehículo o el
+    estado de una infraestructura— generando pruebas digitales trazables y difíciles
+    de manipular. Esto aporta una capa de confianza esencial para operadores de flotas,
+    técnicos de mantenimiento, aseguradoras o gestores públicos, ayudando a prevenir
+    fraudes, resolver disputas y tomar decisiones más rápidas y objetivas
+  video: /sites/default/files/2025-08/Entrevista%20elevenais.mp4
+  web: https://elevenais.com/
+  trabajadores:
+  - nombre: Alejandro Valderrama
+    cargo: Marketing
+    linkedin: ''
+    imagen: ''
+  - nombre: Asier González
+    cargo: Financiación
+    linkedin: https://www.linkedin.com/in/asiergonzalez/?locale=es_ES
+    imagen: ''
+  - nombre: Fernando Granado
+    cargo: CTO
+    linkedin: ''
+    imagen: ''
+  - nombre: Juanjo Valderrama
+    cargo: PM
+    linkedin: ''
+    imagen: ''
+- startup: Aprende japonés divirtiéndote (kanamania)
+  node_id: '111'
+  enlace_drupal: /startup/aprende-japones-divirtiendote-kanamania
+  logo: /sites/default/files/2025-08/logo.png
+  etiqueta: Gaming
+  etiqueta_url: /taxonomy/term/12
+  descripcion: Con este videojuego, desarrollado con el motor Unity, los usuarios
+    podrán aprender y entrar en contacto con el lenguaje japonés a través de divertidos
+    minijuegos y personajes entrañables
+  descripcion_larga: Un videojuego en Unity que gamifica el aprendizaje del japonés
+    básico (gramática, vocabulario y escritura). Ofrece una alternativa divertida
+    y efectiva a los métodos tradicionales, abordando la dificultad inicial y la alta
+    tasa de abandono. Esto representa una oportunidad de negocio innovadora por su
+    potencial de monetización, diferenciación en el mercado y escalabilidad a otros
+    idiomas
+  video: /sites/default/files/2025-11/Misio%CC%81n_Mari%CC%81a.mp4
+  web: ''
+  trabajadores:
+  - nombre: Alberto Sócrates Ortega Calvo
+    cargo: Director del proyecto
+    linkedin: ''
+    imagen: ''
+- startup: ZemBerry Team
+  node_id: '112'
+  enlace_drupal: /startup/zemberry
+  logo: /sites/default/files/2025-08/LOGO_ZENBERRY_VECTOR.png
+  etiqueta: Gaming
+  etiqueta_url: /taxonomy/term/12
+  descripcion: Estudio indie que está desarrollando "Echoes of Nara", un videojuego
+    de aventura/puzzle/plataforma con narrativa emocional y con carácter divulgativo
+  descripcion_larga: Echoes of Nara responde a la demanda de juegos con carga emocional,
+    abordando temas como la ansiedad o el síndrome del impostor, y destacándose como
+    una propuesta única en el mercado por su valor reflexivo y terapéutico. Es un
+    videojuego narrativo que combina exploración, plataformas y puzles en un universo
+    onírico, emocional y estilizado. La propuesta destaca por una jugabilidad innovadora
+    basada en la dualidad entre entornos 2D y 3D, donde cada pesadilla ofrece mecánicas
+    y estéticas únicas, reforzando la inmersión y la conexión emocional con el mundo
+    y sus personajes
+  video: /sites/default/files/2025-08/Entrevista%20Zemberry.MP4
+  web: https://www.zenberryteam.com/
+  trabajadores:
+  - nombre: Juan luis Sánchez Medina
+    cargo: Co-Fundador · Artista 3D, VFX y Artista Técnico
+    linkedin: ''
+    imagen: ''
+  - nombre: Alejandro Ortiz Leiva
+    cargo: Co-Fundador · Programador
+    linkedin: ''
+    imagen: ''
+  - nombre: María Rodríguez Ahumada
+    cargo: Diseñadora Narrativa
+    linkedin: ''
+    imagen: ''
+  - nombre: Carlos de la Fuente Lucas-Torres
+    cargo: Músico y SFX
+    linkedin: ''
+    imagen: ''
+  - nombre: Guillermo Nicolás López
+    cargo: Level Designer
+    linkedin: ''
+    imagen: ''
+  - nombre: Aldric Jean-Patrick Robert
+    cargo: Animador 3D
+    linkedin: ''
+    imagen: ''
+  - nombre: Laura Rodríguez Galán
+    cargo: Animadora 3D
+    linkedin: ''
+    imagen: ''
+  - nombre: Andrea Judith Bermúdez Martín
+    cargo: Artista 3D
+    linkedin: ''
+    imagen: ''
+  - nombre: Carlos Vera Nieto
+    cargo: Ilustrador y Animador 2D
+    linkedin: ''
+    imagen: ''
+- startup: FromZero Games
+  node_id: '114'
+  enlace_drupal: /startup/fromzero-games
+  logo: /sites/default/files/2026-10/fromzero_games_logo.jpeg
+  etiqueta: Gaming
+  etiqueta_url: /taxonomy/term/12
+  descripcion: Project Glitch, videojuego de terror que emplea las mecánicas de los
+    famosos glitch en videojuegos para la narrativa del mismo
+  descripcion_larga: 'Responde a la creciente demanda de juegos con tramas psicológicas
+    profundas,combinando terror, misterio y exploración personal para captar a una
+    audiencia que busca algomás que sustos: una historia intensa, interactiva y emocionalmente
+    inquietante'
+  video: /sites/default/files/2026-10/FromZeroGames_MIGUEL%20A%CC%81NGEL%20CRUZ_Corregido.mp4
+  web: ''
+  trabajadores:
+  - nombre: Miguel Ángel Cruz Carrasco
+    cargo: Modelador · Character Artist
+    linkedin: ''
+    imagen: ''
+  - nombre: Jesús Navarro Cazalla
+    cargo: Modelador · Environment Artist
+    linkedin: ''
+    imagen: ''
+  - nombre: María Sampalo Berlanga
+    cargo: Rigging Artist
+    linkedin: ''
+    imagen: ''
+  - nombre: Angelo Faranda Rojas
+    cargo: Programador · Level Designer
+    linkedin: ''
+    imagen: ''
+  - nombre: Nacho Vívoras García
+    cargo: Compositor
+    linkedin: ''
+    imagen: ''
+  - nombre: Paloma Renée Abrisqueta Dengra
+    cargo: Reel · Animadora
+    linkedin: ''
+    imagen: ''
+  - nombre: Marta Peragón Paulado
+    cargo: Ilustradora & Concept Artist
+    linkedin: ''
+    imagen: ''
+  - nombre: Pablo Herrera Murillo
+    cargo: Community Manager
+    linkedin: ''
+    imagen: ''
+  - nombre: Adriana Martín Olalla
+    cargo: Community Manager
+    linkedin: ''
+    imagen: ''
+- startup: Relatidos
+  node_id: '116'
+  enlace_drupal: /startup/relatidos
+  logo: /sites/default/files/2025-08/logo%20PNG.png
+  etiqueta: Gaming
+  etiqueta_url: /taxonomy/term/12
+  descripcion: Promotora cultural que trabaja para preservar la memoria oral de los
+    pueblos de la España vaciada y revitalizar su tejido social y económico  través
+    de historias reales, que se convierten en audioguías, narradas por sus propios
+    habitantes
+  descripcion_larga: A través de una app, convierten historias reales narradas por
+    los propios habitantes en audioguías que permiten a los viajeros descubrir el
+    territorio desde una mirada íntima y auténtica. Fomentan un turismo más consciente
+    y sostenible, conectando personas con lugares mediante el relato humano, y apoyan
+    la economía local visibilizando negocios del entorno, organizando eventos y creando
+    redes colaborativas entre habitantes, instituciones y visitantes
+  video: /sites/default/files/2025-08/Entrevista%20Relatidos.MP4
+  web: https://relatidos.es
+  trabajadores:
+  - nombre: Ana Rodríguez González
+    cargo: CEO y Directora de Marketing
+    linkedin: ''
+    imagen: ''
+  - nombre: Aitor Benito Martín
+    cargo: Ingeniero
+    linkedin: ''
+    imagen: ''
+  - nombre: Víctor Carrillo Garrido
+    cargo: Ingeniero de Software
+    linkedin: ''
+    imagen: ''
+  - nombre: Laura Esteban Hidalgo
+    cargo: Desarrollo de Software e Inteligencia Artificial
+    linkedin: ''
+    imagen: ''
+- startup: Visitar provincia de Jaén
+  node_id: '117'
+  enlace_drupal: /startup/visitar-provincia-de-jaen
+  logo: /sites/default/files/2025-08/logo%20visitar%20prov%20jaen.png
+  etiqueta: Gaming
+  etiqueta_url: /taxonomy/term/12
+  descripcion: Plataforma digital que integra tecnología, sostenibilidad y conocimiento
+    del territorio para impulsar la economía local mediante la conexión entre turistas
+    y la auténtica oferta de cada municipio, incluyendo eventos culturales, gastronomía,
+    patrimonio, naturaleza y vida rural
+  descripcion_larga: 'Visitar Provincia Jaén es una plataforma digital de turismo
+    inteligente diseñada para transformar la forma en que se vive y se gestiona el
+    turismo de interior en la provincia de Jaén. El proyecto articula tecnología,
+    sostenibilidad y una visión profunda del territorio para dinamizar la economía
+    local, conectando a turistas con la oferta real de cada municipio: eventos culturales,
+    experiencias gastronómicas, patrimonio histórico, naturaleza y vida rural. La
+    plataforma centraliza en un solo entorno digital servicios clave como la venta
+    de entradas (ticketera propia), la gestión de experiencias, una agenda cultural
+    unificada y herramientas de analítica. Este ecosistema permite que tanto ayuntamientos
+    como negocios turísticos accedan a una infraestructura digital adaptada, intuitiva
+    y escalable. Visitar Provincia Jaén propone una transformación del modelo turístico
+    actual, apostando por un turismo activo, personalizado y responsable, frente al
+    tradicional turismo pasivo'
+  video: /sites/default/files/2025-08/Entrevista%20Visitar%20Porvincia%20de%20Jaen.mp4
+  web: https://visitarprovinciajaen.com/
+  trabajadores:
+  - nombre: Ángel Moreno Vázquez
+    cargo: CEO y cofundador
+    linkedin: ''
+    imagen: ''
+  - nombre: Juan Luis Albin García
+    cargo: Co-fundador
+    linkedin: ''
+    imagen: ''
+- startup: A Link to the podcast
+  node_id: '118'
+  enlace_drupal: /startup/a_link_to_the_podcast
+  logo: /sites/default/files/2025-08/logo%20a%20link%20to%20the%20podcast.jpg
+  etiqueta: Gaming
+  etiqueta_url: /taxonomy/term/12
+  descripcion: Podcast sobre Nintendo y gaming que combina análisis, entrevistas y
+    actualidad con una mirada humana y apasionada
+  descripcion_larga: A falta de espacios que traten el universo Nintendo y gaming
+    en general con profundidad y cuidado, A Link to the Podcast cuida el formato y
+    a la comunidad de oyentes que buscan contenido auténtico y especializado.
+  video: /sites/default/files/2025-08/Entrevista%20a%20link%20to%20the%20podcast.MP4
+  web: https://alinktothepodcast.com/
+  trabajadores:
+  - nombre: Manuel Luis Mena Hueso
+    cargo: Director
+    linkedin: ''
+    imagen: ''
+  - nombre: Manuel Fernández Contreras
+    cargo: Colaborador y Community Manager
+    linkedin: ''
+    imagen: ''
+- startup: Horizontal Tree
+  node_id: '119'
+  enlace_drupal: /startup/horizontal_tree
+  logo: /sites/default/files/2025-08/HORIZONTAL%20TREE%20BLACK%20%281%29.pdf_.png
+  etiqueta: Gaming
+  etiqueta_url: /taxonomy/term/12
+  descripcion: Estudio especializado en paisajes sonoros y diseño de audio artesanal
+    para videojuegos, cine y contenidos digitales
+  descripcion_larga: Horizontal Tree es un estudio especializado en la creación de
+    paisajes sonoros, efectos de sonido y diseño de audio adaptado a videojuegos,
+    cine y contenidos digitales. Su propuesta se centra en una aproximación artesanal
+    al sonido, con una alta sensibilidad narrativa y un enfoque técnico riguroso.
+    Cada proyecto es tratado como una obra sonora única, buscando siempre que el audio
+    no solo acompañe, sino que amplifique la experiencia emocional y narrativa del
+    producto final.
+  video: /sites/default/files/2025-08/Entrevista%20Horizontal%20Tree.MP4
+  web: ''
+  trabajadores:
+  - nombre: Antonio Blanca Rodríguez
+    cargo: Co-fundador
+    linkedin: ''
+    imagen: ''
+  - nombre: Marcos David Cabrera Barranco
+    cargo: Co-fundador
+    linkedin: ''
+    imagen: ''
+- startup: Double Drop
+  node_id: '120'
+  enlace_drupal: /startup/double-drop
+  logo: /sites/default/files/2025-08/double_drop_logo.jpg
+  etiqueta: Gaming
+  etiqueta_url: /taxonomy/term/12
+  descripcion: Reinventa las artes escénicas con piezas de danza-teatro inmersivo
+    que combinan narrativa, movimiento y recursos digitales para transformar al público
+    en parte activa de la acción. En un momento en que los medios se saturan incrementalmente
+    con contenido generado por IA, ofrecemos experiencias presenciales, tangibles
+    y memorables que apelan a todos los sentidos —incluido el gusto, integrando propuestas
+    gastronómicas cuando el contexto lo permite— y que se adaptan tanto a teatros
+    como a edificios singulares
+  descripcion_larga: Double Drop crea piezas inmersivas de danza-teatro que integran
+    tecnología (IA, sonido y visuales envolventes) con narrativa, cuerpo y, en ocasiones,
+    gastronomía, generando experiencias presenciales únicas donde el público es parte
+    activa
+  video: /sites/default/files/2025-08/Entrevista%20Double%20Drop.mp4
+  web: https://double-drop.io/
+  trabajadores:
+  - nombre: Florentino Delgado Palacios
+    cargo: Co-fundador
+    linkedin: ''
+    imagen: ''
+  - nombre: Juan José Tirado Pulido
+    cargo: Co-fundador
+    linkedin: ''
+    imagen: ''
+  - nombre: Julio Marcelo Picardo Peña
+    cargo: Ingeniero IT
+    linkedin: ''
+    imagen: ''
+- startup: Iagro Smart Factory
+  node_id: '121'
+  enlace_drupal: /startup/iagro
+  logo: /sites/default/files/2025-08/Logo_Iagro.png
+  etiqueta: Agrotech
+  etiqueta_url: /taxonomy/term/11
+  descripcion: Plataforma que digitaliza plantas agroalimentarias conectando máquinas,
+    personas y sistemas para visión global en tiempo real
+  descripcion_larga: Información a tiempo real de Costes, productividad, causas de
+    paradas y disminución de ritmos de producción para su estudio y propuestas de
+    mejora para optimizar la productividad y costes de producción. Balances de Masas,
+    distribución de tiempos en las distintas tareas productivas por trabajador
+  video: ''
+  web: https://iagrofactory.es/
+  trabajadores:
+  - nombre: Alfredo Sánchez Córdoba
+    cargo: CEO y cofundador
+    linkedin: ''
+    imagen: ''
+  - nombre: Luis Ramón García
+    cargo: CEO y cofundador
+    linkedin: ''
+    imagen: ''
+- startup: Biogreen Road
+  node_id: '122'
+  enlace_drupal: /startup/biogreen_road
+  logo: /sites/default/files/2025-08/Logo_Biogreen.jpg
+  etiqueta: Agrotech
+  etiqueta_url: /taxonomy/term/11
+  descripcion: Soluciones de fertirrigación mediante biotecnología para reducir consumo
+    de agua y fertilizantes en agricultura
+  descripcion_larga: El actual modelo agrícola sufre una grave escasez de agua, aumento
+    del coste de fertilizantes y pérdida de materia orgánica en el suelo.
+  video: ''
+  web: http://www.biogreenroad.com
+  trabajadores:
+  - nombre: Alberto Fuentes
+    cargo: Founder
+    linkedin: https://www.linkedin.com/in/alfumu/?isSelfProfile=false
+    imagen: ''
+- startup: IO Park
+  node_id: '123'
+  enlace_drupal: /startup/io-park
+  logo: /sites/default/files/2025-08/IOPARK.png
+  etiqueta: SmartMobility
+  etiqueta_url: /taxonomy/term/13
+  descripcion: Startup especializada en cerraduras inteligentes con conectividad IoT,
+    permitiendo la apertura remota de puertas incluso en zonas de baja cobertura,
+    como sótanos o áreas rurales. Nuestra tecnología ha sido adoptada por comunidades
+    de propietarios, empresas, y entidades del sector público como Adif y la Generalitat
+    de Cataluña, que requieren acceso remoto sin depender de redes WiFi por restricciones
+    de seguridad
+  descripcion_larga: Cerraduras inteligentes IoT que permiten acceso remoto seguro
+    sin Wi-Fi, incluso en sótanos o zonas rurales, ya adoptado por grandes clientes
+    públicos y privados
+  video: /sites/default/files/2026-10/Iopark%20HQ.mov
+  web: http://www.iopark.es/
+  trabajadores:
+  - nombre: Susana Carrasco Pérez
+    cargo: CEO
+    linkedin: ''
+    imagen: ''
+  - nombre: Rafael Rojas
+    cargo: CTO
+    linkedin: ''
+    imagen: ''
+  - nombre: Lucas Gonzálvez
+    cargo: Experto en IA
+    linkedin: ''
+    imagen: ''
+  - nombre: Roberto Ruiz Marin
+    cargo: Experto en Telecomunicaciones
+    linkedin: ''
+    imagen: ''
+- startup: Ciclogreen
+  node_id: '124'
+  enlace_drupal: /startup/ciclogreen
+  logo: /sites/default/files/2025-08/Ciclogreen.png
+  etiqueta: SmartMobility
+  etiqueta_url: /taxonomy/term/13
+  descripcion: Plataforma de carpooling gamificada que convierte desplazamientos sostenibles
+    en ahorro energético para empresas
+  descripcion_larga: Frente a la contaminación causada por los desplazamientos laborales
+    y colectivos, Ciclogreen ofrece desde el diseño normativo de planes de movilidad
+    hasta su implementación mediante una app gamificada que fomenta el carpooling
+    y el uso de medios de transporte sostenibles entre empleados y ciudadanos.
+  video: ''
+  web: https://www.ciclogreen.com/
+  trabajadores:
+  - nombre: Gregorio Magno Toral Jiménez
+    cargo: CEO
+    linkedin: ''
+    imagen: ''
+  - nombre: Andoni Recabarren
+    cargo: COO y CFO
+    linkedin: ''
+    imagen: ''
+- startup: ZERO LABS
+  node_id: '125'
+  enlace_drupal: /startup/zero-labs
+  logo: /sites/default/files/2025-08/ZeroLabs.png
+  etiqueta: SmartMobility
+  etiqueta_url: /taxonomy/term/13
+  descripcion: Desarrolla ReTrace, la primera superapp digital todo-en-uno para acelerar
+    la descarbonización global, con foco en resolver el reto de las emisiones Scope
+    3. Libera a los equipos de sostenibilidad de las empresas del trabajo manual y
+    les permite centrarse en reducir emisiones con herramientas digitales inteligentes
+    y trazables
+  descripcion_larga: Superapp digital para acelerar la descarbonización empresarial,
+    enfocada en emisiones Scope 3 con tecnología blockchain, energía limpia programable
+    y trazabilidad inteligente.
+  video: /sites/default/files/2025-08/Entrevista%20Zero%20Labs%20Hq.mp4
+  web: https://zerolabs.green/
+  trabajadores:
+  - nombre: Beltrán Berrocal Sajonia-Coburgo
+    cargo: CEO
+    linkedin: ''
+    imagen: ''
+  - nombre: Doug Miller
+    cargo: Ventas
+    linkedin: ''
+    imagen: ''
+  - nombre: Jonathan Waldenfels
+    cargo: Producto y Trazabilidad
+    linkedin: ''
+    imagen: ''
+  - nombre: Josip Bagaric
+    cargo: CTO
+    linkedin: ''
+    imagen: ''
+  - nombre: Alex Popadyuk
+    cargo: UI
+    linkedin: ''
+    imagen: ''
+- startup: Battles
+  node_id: '151'
+  enlace_drupal: /node/151
+  logo: ''
+  etiqueta: Gaming
+  etiqueta_url: /taxonomy/term/12
+  descripcion: App que conecta amantes del "freestyle" para rapear, competir y entrenar
+    en batallas virtuales en tiempo real
+  descripcion_larga: Existen cientos de miles de personas en el mundo amantes del
+    freestyle y la música urbana, pero no tienen una app para practicar, competir
+    y conectar en tiempo real, lo cual limita el desarrollo del talento en la comunidad.
+  video: ''
+  web: ''
+  trabajadores:
+  - nombre: Javier Alañón Pertíñez
+    cargo: CEO
+    linkedin: https://www.linkedin.com/in/javiala%C3%B1on/
+    imagen: ''
+- startup: Plataforma de esgrima en casa
+  node_id: '152'
+  enlace_drupal: /node/152
+  logo: /sites/default/files/2025-12/Captura%20de%20pantalla%202025-12-05%20135728.png
+  etiqueta: Gaming
+  etiqueta_url: /taxonomy/term/12
+  descripcion: Plataforma online y multilingüe de aprendizaje de esgrima. Diseñada
+    para que cualquier persona pueda entrenar desde casa de manera flexible y adaptada
+    a su ritmo
+  descripcion_larga: .
+  video: ''
+  web: ''
+  trabajadores:
+  - nombre: Adán Pérez Pérez
+    cargo: CEO
+    linkedin: https://www.linkedin.com/in/ad%C3%A1n-p%C3%A9rez-608696122/
+    imagen: ''
+- startup: Volts&Joules
+  node_id: '154'
+  enlace_drupal: /node/154
+  logo: /sites/default/files/2025-12/1758484118004.jpg
+  etiqueta: SmartMobility
+  etiqueta_url: /taxonomy/term/13
+  descripcion: Actual SonaGrid, ha desarrollado un sensor avanzado para medir y analizar
+    causas del ruido en entornos urbanos
+  descripcion_larga: Su propuesta diferencia tráfico y aglomeraciones e integra hardware
+    y conectividad IoT propia
+  video: ''
+  web: https://voltsandjoules.com/
+  trabajadores:
+  - nombre: Víctor Manuel Díaz Molina
+    cargo: CEO
+    linkedin: https://www.linkedin.com/in/victor-diaz-m/?isSelfProfile=false
+    imagen: ''
+- startup: CIVVIE
+  node_id: '155'
+  enlace_drupal: /node/155
+  logo: ''
+  etiqueta: SmartMobility
+  etiqueta_url: /taxonomy/term/13
+  descripcion: Plataforma de seguridad colaborativa que conecta ciudadanía y cuerpos
+    de seguridad con alertas en tiempo real
+  descripcion_larga: Frente a la fragmentación actual en la comunicación de incidentes
+    urbanos y los retos de seguridad en movilidad urbana y la gestión de flotas, CIVVIE
+    aporta rapidez, verificación y colaboración ciudadana a través de alertas grupales,
+    streaming y geolocalización en tiempo real entre ciudadanía, operadores y cuerpos
+    de seguridad.
+  video: ''
+  web: https://www.civvie.app
+  trabajadores:
+  - nombre: Francisco José López Perea
+    cargo: Fundador
+    linkedin: ''
+    imagen: ''
+- startup: QORA GREEN
+  node_id: '157'
+  enlace_drupal: /node/157
+  logo: ''
+  etiqueta: ''
+  etiqueta_url: ''
+  descripcion: QORA GREEN es una app de recogida a domicilio de aceites y otras grasas
+    que conecta a usuarios con gestores autorizados, registra la trazabilidad del
+    residuo y facilita su valorización en biocombustibles, reduciendo vertidos que
+    contaminan la red de agua local.
+  descripcion_larga: .
+  video: ''
+  web: ''
+  trabajadores:
+  - nombre: Jose Luis Guillén Ramos
+    cargo: Fundador
+    linkedin: ''
+    imagen: ''
+- startup: MOBILITY ION TECHNOLOGIES SL
+  node_id: '158'
+  enlace_drupal: /node/158
+  logo: /sites/default/files/2025-12/Captura%20de%20pantalla%202025-12-05%20142040.png
+  etiqueta: Logística Portuaria
+  etiqueta_url: /taxonomy/term/1
+  descripcion: Mion desarrolla un detector de vapor de drogas basado en tecnología
+    DMA (Differential Mobility Analyzer), capaz de distinguir moléculas con igual
+    masa molecular con alta precisión
+  descripcion_larga: Permite muestrear un contenedor en tres minutos y detectar trazas
+    de baja volatilidad, haciendo las inspecciones portuarias más rápidas y eficaces
+  video: ''
+  web: https://miontechnologies.com/
+  trabajadores:
+  - nombre: Daoiz Zamora Pérez
+    cargo: Fundador
+    linkedin: https://www.linkedin.com/in/pablo-torralba-artist/
+    imagen: ''
+  - nombre: Mario Amo González
+    cargo: Fundador
+    linkedin: https://www.linkedin.com/in/marioamogonz%C3%A1lez/
+    imagen: ''
+  - nombre: Sergio Pérez Velasco
+    cargo: Fundador
+    linkedin: https://www.linkedin.com/in/serpeve/
+    imagen: ''
+  - nombre: Leticia Ruíz Pérez
+    cargo: Fundadora
+    linkedin: https://www.linkedin.com/in/leticiaruizperez/
+    imagen: ''
+  - nombre: Adrián Frutos Carrión
+    cargo: Fundador
+    linkedin: https://www.linkedin.com/in/adrian-frutos-carri%C3%B3n-b4bba728b/
+    imagen: ''
+- startup: PANSSARI
+  node_id: '159'
+  enlace_drupal: /node/159
+  logo: /sites/default/files/2025-12/panssari_0.png
+  etiqueta: Logística Portuaria
+  etiqueta_url: /taxonomy/term/1
+  descripcion: Panssari es una plataforma SaaS de inteligencia artificial para la
+    detección de intrusos.  Integra control de accesos, radiofrecuencia UWB, visión
+    artificial y análisis predictivo en una plataforma SaaS que detecta y sigue intrusos,
+    vehículos y mercancías en tiempo real, optimizando seguridad y operaciones
+  descripcion_larga: Localización de intrusos en tiempo real. Seguimiento de mercancías
+    y optimización de tráfico rodado dentro del área.
+  video: ''
+  web: https://panssari.es
+  trabajadores:
+  - nombre: Helena Calva Oria
+    cargo: Fundadora
+    linkedin: https://www.linkedin.com/in/helena-calva-oria/
+    imagen: ''
+- startup: Deliverance Enterprises
+  node_id: '160'
+  enlace_drupal: /node/160
+  logo: ''
+  etiqueta: Logística Portuaria
+  etiqueta_url: /taxonomy/term/1
+  descripcion: Saas para gestión de flotas de dispositivos IoT y robots de servicio
+    mediante  cloud con analítica avanzada e IA. Deliverance centraliza la gestión
+    de flotas de dispositivos IoT y robots de servicio mediante una plataforma cloud
+    con analítica avanzada e inteligencia artificial.
+  descripcion_larga: Facilita la integración plug & play, optimiza tareas y mejora
+    la toma de decisiones, reduciendo hasta un 45 % los costes operativos.
+  video: /sites/default/files/2026-10/Deliverance%20HQ.mov
+  web: https://deliverance.enterprises/
+  trabajadores:
+  - nombre: Eduardo Munera
+    cargo: Fundador
+    linkedin: https://www.linkedin.com/in/eduardo-munera/
+    imagen: ''
+- startup: AgriSens
+  node_id: '162'
+  enlace_drupal: /node/162
+  logo: /sites/default/files/2025-12/Logo_Agrisens.jpg
+  etiqueta: Agrotech
+  etiqueta_url: /taxonomy/term/11
+  descripcion: Trampa inteligente IoT que monitoriza plagas agrícolas en tiempo real
+    y envía alertas tempranas a agricultores
+  descripcion_larga: Sin control en tiempo real de las plagas, se usan más químicos
+    de los necesarios, aumentan los costes y se daña tanto el cultivo como el medio
+    ambiente. La solución de AgriSens facilita a los agricultores información en tiempo
+    real sobre la presión de las plagas en sus cultivos, por ejemplo identificando
+    el momento óptimo para realizar el tratamiento fitosanitario y favorecer un control
+    biológico eficaz, para que puedan anticiparse y estar preparados antes de que
+    la plaga se desarrolle en el cultivo.
+  video: /sites/default/files/2025-12/Entrevista%20Agrisens.mp4
+  web: https://agrisens.es/
+  trabajadores:
+  - nombre: Jesús Pujante Saenz
+    cargo: CEO & Founder
+    linkedin: https://www.linkedin.com/in/jesus-pujante-saez/
+    imagen: ''
+- startup: Almia
+  node_id: '163'
+  enlace_drupal: /node/163
+  logo: /sites/default/files/2025-12/logo_almia%20negro.jpeg
+  etiqueta: Agrotech
+  etiqueta_url: /taxonomy/term/11
+  descripcion: Solución de inteligencia artificial que automatiza tareas repetitivas
+    y mejora la coordinación en empresas agroalimentarias
+  descripcion_larga: 'Existe un problema crítico en empresas tradicionales: la ineficiencia
+    operativa causada por tareas manuales, descoordinación y falta de visibilidad
+    en los procesos clave del negocio. En sectores como el agroalimentario, donde
+    los equipos trabajan con Excel, WhatsApp, llamadas y procesos repetitivos mal
+    conectados al ERP o CRM se genera un gran porcentaje de errores, retrasos, sobrecomunicación
+    y pérdida de tiempo.'
+  video: /sites/default/files/2025-12/Almia%2030_Agrotech.mov
+  web: http://www.almiaconecta.com
+  trabajadores:
+  - nombre: José Saldaña
+    cargo: CEO
+    linkedin: https://www.linkedin.com/in/jose-saldana-ia/
+    imagen: ''
+- startup: CULTITECNO NUTRIGROW
+  node_id: '164'
+  enlace_drupal: /node/164
+  logo: /sites/default/files/2025-12/Logo_Cultitecno.png
+  etiqueta: Agrotech
+  etiqueta_url: /taxonomy/term/11
+  descripcion: Calculadora digital para recomendaciones personalizadas de fertilización
+    agrícola. App que calcula dosis óptimas de nutrientes en función de cultivo, suelo
+    y objetivos, mejorando eficiencia y sostenibilidad
+  descripcion_larga: .
+  video: ''
+  web: http://www.cultitecno.com
+  trabajadores:
+  - nombre: Alfonso Moreno Rodríguez
+    cargo: Consultor
+    linkedin: https://www.linkedin.com/in/alfonso-moreno-rodr%C3%ADguez-7a4892391/
+    imagen: ''
+- startup: FIELDS
+  node_id: '165'
+  enlace_drupal: /node/165
+  logo: /sites/default/files/2025-12/Logo_Fields.png
+  etiqueta: Agrotech
+  etiqueta_url: /taxonomy/term/11
+  descripcion: Plataforma tecnológica que conecta agricultores con compradores internacionales
+    directamente eliminando intermediarios
+  descripcion_larga: 'FIELDS propone una plataforma tecnológica B2B que actúa como
+    mercado digital directo entre agricultores y compradores. Su solución incluye:
+    Una app que conecta en tiempo real a productores agrícolas con compradores mayoristas,
+    importadores y distribuidores europeos y estadounidenses. Herramientas para publicar
+    productos, gestionar pedidos y negociar directamente, todo dentro de un entorno
+    digital. Sistema de confianza con verificación de usuarios, contratos digitales
+    y trazabilidad de producto. Diseño sencillo, intuitivo y centrado en facilitar
+    operaciones rápidas y seguras, con foco en la experiencia del usuario agrícola'
+  video: /sites/default/files/2026-02/fields.MP4
+  web: https://www.fields.es/
+  trabajadores:
+  - nombre: German Roche
+    cargo: CEO & Software Engineer
+    linkedin: https://www.linkedin.com/in/german-roche-30436412/
+    imagen: ''
+- startup: FOREST+
+  node_id: '166'
+  enlace_drupal: /node/166
+  logo: /sites/default/files/2025-12/Logo_Forest%2B_GadorRoots.jpg
+  etiqueta: Agrotech
+  etiqueta_url: /taxonomy/term/11
+  descripcion: Plataforma tecnológica para reforestación con trazabilidad, medición
+    de CO₂ y certificación de carbono.
+  descripcion_larga: App móvil y geolocalización para seguimiento de árboles, cálculo
+    de CO₂ capturado y generación de informes de impacto.
+  video: /sites/default/files/2026-02/DANIEL_D%C3%8DAZ.mov
+  web: https://www.forestplustech.com/
+  trabajadores:
+  - nombre: Daniel Miguel Díaz
+    cargo: Founder
+    linkedin: https://www.linkedin.com/in/danidiazpe/?originalSubdomain=es
+    imagen: ''
+  - nombre: Alberto José Urea Ramos
+    cargo: Biólogo
+    linkedin: https://www.linkedin.com/in/albertojoseurea/details/experience/
+    imagen: ''
+- startup: TACTO
+  node_id: '167'
+  enlace_drupal: /node/167
+  logo: /sites/default/files/2025-12/Logo_Tacto.jpg
+  etiqueta: Agrotech
+  etiqueta_url: /taxonomy/term/11
+  descripcion: TACTO ofrece MERCA360, una solución “todo en uno” para digitalizar
+    mercados mayoristas agroalimentarios. Permite gestionar clientes, incidencias,
+    pagos, espacios, marketing, atención al cliente, etc., desde un único sistema.
+    Es integrable con ERPs existentes, fácil de usar y adaptable a otros mercados.
+    Incluye IA aplicada para automatizar tareas repetitivas como generación de informes,
+    atención digital o análisis de patrones.
+  descripcion_larga: MERCA360 responde al reto de la fragmentación y obsolescencia
+    de la gestión en los mercados mayoristas, donde los ERPs generales, municipales
+    o sistemas manuales no cubren las necesidades reales del sector. El proyecto soluciona
+    la falta de integración entre accesos,, gestión de concesionarios, atención al
+    cliente e incidencias, permitiendo a los mercados modernizarse, optimizar procesos,
+    mejorar su imagen pública y cumplir requisitos de digitalización para acceder
+    a fondos europeos o municipales.
+  video: ''
+  web: https://tactoagencia.com
+  trabajadores:
+  - nombre: Enrique Luis Masats
+    cargo: CEO & Founder
+    linkedin: https://www.linkedin.com/in/enrique-luis-masats-de-angulo/
+    imagen: ''
+- startup: IMOGITECH
+  node_id: '168'
+  enlace_drupal: /node/168
+  logo: /sites/default/files/2025-12/Logo_Imogitech.jpeg
+  etiqueta: Agrotech
+  etiqueta_url: /taxonomy/term/11
+  descripcion: IA y robótica para detección temprana de plagas agrícolas
+  descripcion_larga: Detección temprana de plagas mediante visión artificial e IA
+    en robots fijos y móviles que monitorizan la base de la planta y el envés de las
+    hojas, permitiendo intervenciones localizadas y reducción de fitosanitarios.
+  video: ''
+  web: ''
+  trabajadores:
+  - nombre: .
+    cargo: .
+    linkedin: https://www.linkedin.com/company/imogitech/
+    imagen: ''
+- startup: Afinca
+  node_id: '169'
+  enlace_drupal: /node/169
+  logo: /sites/default/files/2025-12/Logo_Afinca.jpg
+  etiqueta: Agrotech
+  etiqueta_url: /taxonomy/term/11
+  descripcion: Afinca es un marketplace especializado para compra, venta y alquiler
+    de propiedades rústicas con diagnóstico 360º y servicios integrados
+  descripcion_larga: 'La compraventa de fincas rústicas es un mercado opaco y fragmentado:
+    ni los compradores ni los vendedores disponen de una evaluación objetiva sobre
+    viabilidad agronómica, disponibilidad/calidad de agua, cumplimiento normativo
+    y costes de puesta a punto, lo que genera decisiones lentas, operaciones fallidas
+    y pérdida de valor.'
+  video: ''
+  web: http://www.afinca.es/
+  trabajadores:
+  - nombre: José G. Osorio
+    cargo: Founder
+    linkedin: https://www.linkedin.com/in/joseosoriogarcia/?originalSubdomain=es
+    imagen: ''
+- startup: Alkam Agroibérica
+  node_id: '170'
+  enlace_drupal: /node/170
+  logo: /sites/default/files/2025-12/Logo_Alkam.jpeg
+  etiqueta: Agrotech
+  etiqueta_url: /taxonomy/term/11
+  descripcion: Desarrollo de fertilizantes personalizados y sostenibles
+  descripcion_larga: Busca superar la dependencia del campo de fertilizantes y bioestimulantes
+    estandarizados poco adaptados a la diversidad real de suelos, aguas y climas.
+    Esta falta de ajuste provoca menor eficiencia, más costes y un impacto ambiental
+    elevado. Además, el mercado sigue dominado por productos químicos convencionales,
+    con escasas alternativas orgánicas.
+  video: ''
+  web: ''
+  trabajadores:
+  - nombre: María José Márquez Fenoy
+    cargo: Gerente General
+    linkedin: https://www.linkedin.com/in/mar%C3%ADa-jos%C3%A9-m%C3%A1rquez-fenoy-1a4630185/
+    imagen: ''
+- startup: AGROSENSE
+  node_id: '171'
+  enlace_drupal: /node/171
+  logo: /sites/default/files/2025-12/Logo_Agrosense.jpeg
+  etiqueta: Agrotech
+  etiqueta_url: /taxonomy/term/11
+  descripcion: Plataforma de apoyo a la decisión agronómica basada en datos. Centraliza
+    datos climáticos y de sensores para generar recomendaciones inteligentes en riego,
+    plagas y fertilización; destaca por su simplicidad y análisis de sostenibilidad
+  descripcion_larga: Reducción de gasto de riego y mejor calidad de resultados.
+  video: ''
+  web: https://www.agrosense.com/es/
+  trabajadores:
+  - nombre: Ilyas El Hamdi
+    cargo: .
+    linkedin: https://www.linkedin.com/in/ilyaselhamdi/
+    imagen: ''
+- startup: Albor
+  node_id: '172'
+  enlace_drupal: /node/172
+  logo: /sites/default/files/2025-12/Logo_Albor.jpeg
+  etiqueta: Agrotech
+  etiqueta_url: /taxonomy/term/11
+  descripcion: Sistema inteligente IoT con IA para monitorización y control automatizado
+    de riego en cultivos leñosos con edge computing
+  descripcion_larga: Los cultivos leñosos de gran valor como olivar, aguacate, mango,
+    entre otros, requieren una gestión precisa del riego y del estado del suelo. Muchos
+    agricultores carecen de herramientas adaptadas a estos cultivos, lo cual genera
+    ineficiencias, pérdidas de producción y un uso insostenible de los recursos hídricos.
+  video: /sites/default/files/2026-02/albor.MP4
+  web: ''
+  trabajadores:
+  - nombre: Pablo Ruíz Fernández
+    cargo: Fundador y Líder de proyecto
+    linkedin: https://www.linkedin.com/in/pablo-ruiz-fernandez-3b0361127/
+    imagen: ''
+- startup: BIHOX
+  node_id: '173'
+  enlace_drupal: /node/173
+  logo: /sites/default/files/2025-12/Logo_Bihox.png
+  etiqueta: Agrotech
+  etiqueta_url: /taxonomy/term/11
+  descripcion: Tecnología patentada que transforma el agua para aumentar eficiencia
+    agrícola. Consigue, entre otras cosas, un uso más eficiente de un recurso tan
+    fundamental con es el agua en agricultura
+  descripcion_larga: Solución basada en fotocatálisis avanzada que mejora el agua
+    con microburbujas reactivas, generadas con humedad y electricidad. Mejora fertilización
+    y riego
+  video: /sites/default/files/2026-10/PELAYO_FERNA%CC%81NDEZ.mov
+  web: https://bihox.es/es/
+  trabajadores:
+  - nombre: Marcos Parra Jodar
+    cargo: CEO & Co Founder
+    linkedin: https://www.linkedin.com/in/marcos-parra-b10389252/
+    imagen: ''
+- startup: GRODI
+  node_id: '175'
+  enlace_drupal: /node/175
+  logo: /sites/default/files/2025-12/Logo_Grodi.png
+  etiqueta: Agrotech
+  etiqueta_url: /taxonomy/term/11
+  descripcion: Robot autónomo para invernadero con IA que monitoriza salud vegetal,
+    predice producción y planifica recolección
+  descripcion_larga: Vega, un robot autónomo para invernadero que se desplaza sobre
+    el cultivo mediante un sistema de guías o raíles, capturando imágenes de alta
+    resolución y datos ambientales a medida que avanza.
+  video: /sites/default/files/2025-12/Entrevista%20Groditech.mp4
+  web: https://groditech.com/
+  trabajadores:
+  - nombre: Ana María Molina Olmo
+    cargo: CEO & Co Founder
+    linkedin: https://www.linkedin.com/in/ana-mar%C3%ADa-molina-olmo-0102a8210/
+    imagen: ''
+  - nombre: Natalia Gálvez
+    cargo: Directora de Marketing
+    linkedin: https://www.linkedin.com/in/nataliagalvezr/
+    imagen: ''
+- startup: TECNOALGAE
+  node_id: '176'
+  enlace_drupal: /node/176
+  logo: /sites/default/files/2025-12/Logo_Tecnoalgae.png
+  etiqueta: Agrotech
+  etiqueta_url: /taxonomy/term/11
+  descripcion: Reactor de microalgas para producir bioestimulante in situ que sustituye
+    insumos externos
+  descripcion_larga: Tratamiento y recuperación de agua, autoproduccion de bioestimulantes
+    y regeneración de suelo agrícola
+  video: /sites/default/files/2026-10/NURIA%20EGEA-TECNOALGAE%20HQ.mov
+  web: https://tecnoalgae.com/agricultura-regenerativa/
+  trabajadores:
+  - nombre: Inéz Herrero
+    cargo: Founder
+    linkedin: https://www.linkedin.com/in/ines-herrero-chac%C3%B3n-410585241/
+    imagen: ''
+  - nombre: Nuria Egea
+    cargo: CEO
+    linkedin: https://www.linkedin.com/in/%F0%9F%AB%A7-nuria-egea-lerdo-de-tejada-ba755764/
+    imagen: ''
+  - nombre: Javier Candilejo Egea
+    cargo: Técnico de Innovación y Medioambiente
+    linkedin: https://www.linkedin.com/in/javier-candilejo-egea-19384a146/
+    imagen: ''
+- startup: SOLARIS VITA
+  node_id: '177'
+  enlace_drupal: /node/177
+  logo: /sites/default/files/2025-12/Logo_SolarisVita%20%281%29.png
+  etiqueta: Agrotech
+  etiqueta_url: /taxonomy/term/11
+  descripcion: Solaris Vita desarrolla paneles fotovoltaicos orgánicos (OPV) semitransparentes,
+    diseñados para integrarse en las cubiertas de invernaderos y sistemas flotantes
+    en balsas de riego.
+  descripcion_larga: La transformación del sector agrícola, y cómo gracias a la generación
+    de energía in situ vamos a poder integrar nuevas tecnologías que la hagan mucho
+    más rentable y competitiva en este entorno globalizado
+  video: ''
+  web: https://solarisvita.com/
+  trabajadores:
+  - nombre: Miguel Iglesias Molino
+    cargo: CEO & Founder
+    linkedin: https://www.linkedin.com/in/miguel-iglesias-01/
+    imagen: ''
+- startup: ORIZON SOFT
+  node_id: '178'
+  enlace_drupal: /node/178
+  logo: /sites/default/files/2025-12/Logo_Orizon%20Software.jpg
+  etiqueta: Agrotech
+  etiqueta_url: /taxonomy/term/11
+  descripcion: ERP especializado para gestión integral del sector agroalimentario.Solución
+    integral para digitalizar y conectar todos los procesos de una empresa agroalimentaria,
+    desde producción a comercialización, con trazabilidad, calidad y eficiencia operativa
+    en tiempo real.
+  descripcion_larga: .
+  video: ''
+  web: https://www.orizonsoft.com/
+  trabajadores:
+  - nombre: Manuel Moreno Jimenez
+    cargo: CEO
+    linkedin: https://www.linkedin.com/in/manuel-moreno-jim%C3%A9nez-7b0a8b2a2/
+    imagen: ''
+  - nombre: Miriam Sánchez Parrón
+    cargo: Soporte técnico superior
+    linkedin: https://www.linkedin.com/in/miriam-s%C3%A1nchez-parr%C3%B3n-12713a1b0/
+    imagen: ''
+- startup: Bubble Time
+  node_id: '180'
+  enlace_drupal: /node/180
+  logo: /sites/default/files/2025-12/Bubble%20Time.jpg
+  etiqueta: Gaming
+  etiqueta_url: /taxonomy/term/12
+  descripcion: App de gamificación para desconexión digital grupal que fomenta interacciones
+    reales y mejora salud mental
+  descripcion_larga: Los dispositivos móviles interfieren en la interacción con otros,
+    afectan a la salud mental y a las relaciones sociales y distraen de las actividades
+    y la conexión real.
+  video: ''
+  web: ''
+  trabajadores:
+  - nombre: Jessica Carreño Fernández
+    cargo: CEO
+    linkedin: https://www.linkedin.com/in/jessica-carre%C3%B1o-fernandez/
+    imagen: ''
+- startup: HelpApp
+  node_id: '181'
+  enlace_drupal: /node/181
+  logo: /sites/default/files/2025-12/Logo%20HelpApp.png
+  etiqueta: Gaming
+  etiqueta_url: /taxonomy/term/12
+  descripcion: Plataforma que conecta personas mayores y sus familias con ayuda personalizada
+    mediante tecnología centrada en personas
+  descripcion_larga: Busca conseguir el mantenimiento y la prolongación de la independencia
+    de las personas mayores y facilitar a sus familiares el apoyo que necesiten, mediante
+    un servicio integral y personalizado que de cobertura a todas sus necesidades
+    a través de un medio tecnológico centrado en las personas y estableciendo conexiones
+    entre quienes necesitan ayuda y quienes la ofrecen.
+  video: ''
+  web: https://helpapp.es/
+  trabajadores:
+  - nombre: Nuria Cámara Álvarez
+    cargo: CEO
+    linkedin: https://www.linkedin.com/in/nuria-c%C3%A1mara-%C3%A1lvarez-13a60016b/
+    imagen: ''
+- startup: ServiR Migrantes
+  node_id: '182'
+  enlace_drupal: /node/182
+  logo: /sites/default/files/2026-02/ServiR_migrantes_logo.png
+  etiqueta: Gaming
+  etiqueta_url: /taxonomy/term/12
+  descripcion: ServiR Migrantes es una plataforma digital que facilita la integración
+    social, laboral y legal de personas migrantes en España. Centraliza recursos clave
+    —como ofertas de empleo, formación, asesoría jurídica, servicios de salud y redes
+    de apoyo— en un solo espacio accesible y adaptado a las necesidades reales de
+    esta población
+  descripcion_larga: .
+  video: ''
+  web: ''
+  trabajadores:
+  - nombre: Erik Alexey Villarreal Pardo
+    cargo: Fundador
+    linkedin: https://www.linkedin.com/in/luisovich/
+    imagen: ''
+- startup: Emprender como Diseñadora Gráfica
+  node_id: '183'
+  enlace_drupal: /node/183
+  logo: ''
+  etiqueta: Gaming
+  etiqueta_url: /taxonomy/term/12
+  descripcion: Soluciones gráficas personalizadas y artesanales con Adobe Creative
+    Suite adaptadas a la identidad de cada cliente
+  descripcion_larga: 'En un contexto marcado por la estandarización del contenido
+    visual y el auge de herramientas automatizadas, esta diseñadora gráfica ofrece
+    una alternativa diferenciadora: soluciones gráficas personalizadas, elaboradas
+    de forma artesanal y cuidadosamente adaptadas a la identidad de cada cliente.
+    Su enfoque combina sensibilidad estética, comprensión estratégica y ejecución
+    digital precisa, ofreciendo piezas únicas que comunican con autenticidad y valor
+    diferencial.'
+  video: ''
+  web: ''
+  trabajadores:
+  - nombre: Leticia Alcalde Garzón
+    cargo: Fundadora
+    linkedin: https://www.linkedin.com/in/leticia-alcalde-garz%C3%B3n-6ba4bb387/
+    imagen: ''
+- startup: Granada Sync
+  node_id: '184'
+  enlace_drupal: /node/184
+  logo: /sites/default/files/2025-12/GranadaSyncLogo.png
+  etiqueta: Gaming
+  etiqueta_url: /taxonomy/term/12
+  descripcion: Producción audiovisual y musical profesional con IA para crear vídeos
+    de alta calidad con sincronización perfecta
+  descripcion_larga: A través de la Inteligencia Artificial, ofrecen una solución
+    integral que incluye creación audiovisual, producción musical y sonora, y sincronización
+    profesional. Esto permite transformar ideas en vídeos pulidos que comunican con
+    impacto.
+  video: ''
+  web: ''
+  trabajadores:
+  - nombre: José Manuel Centeno Torrealba
+    cargo: Fundador
+    linkedin: https://www.linkedin.com/in/jose-manuel-centeno-torrealba-02a50137/
+    imagen: ''
+- startup: The Traveler Games
+  node_id: '185'
+  enlace_drupal: /node/185
+  logo: /sites/default/files/2025-12/the%20traveller%20games.png
+  etiqueta: Gaming
+  etiqueta_url: /taxonomy/term/12
+  descripcion: 'The Traveler Games es un estudio indie de desarrollo de videojuegos.
+    “Chess Revolution” es su primer gran título: un innovador juego de estrategia
+    por turnos que reimagina el ajedrez clásico incorporando mecánicas "roguelike"
+    y una profunda narrativa de fantasía oscura. Está inspirado en los mundos sombríos
+    y desafiantes de FromSoftware.'
+  descripcion_larga: .
+  video: /sites/default/files/2025-12/Gaming_The%20Traveler_Games_CARLOS_DI%CC%81AZ.mov
+  web: https://thetravelergames.com/
+  trabajadores:
+  - nombre: Carlos Díaz Prados
+    cargo: CEO&Founder
+    linkedin: https://www.linkedin.com/in/carlos-d%C3%ADaz-prados-548654109/
+    imagen: ''
+  - nombre: Antonio Valseca
+    cargo: Modelador 3D
+    linkedin: https://www.linkedin.com/in/antonio-valseca-9952a519b/
+    imagen: ''
+- startup: Media Form
+  node_id: '186'
+  enlace_drupal: /node/186
+  logo: /sites/default/files/2025-12/Logo%20MediaForm.png
+  etiqueta: Gaming
+  etiqueta_url: /taxonomy/term/12
+  descripcion: Media Form es una productora audiovisual especializada en la creación
+    de contenidos formativos y corporativos para empresas y profesionales que de verdad
+    marquen la diferencia. Ofrece vídeos estratégicos, formativos y corporativos que
+    transforman ideas complejas en contenido visual claro, impactante y fácil de asimilar
+    para mejorar la enseñanza y el engagement de sus clientes
+  descripcion_larga: En un mundo lleno de contenido, su reto es que la formación,
+    el curso o el mensaje de sus clientes no pase desapercibido. Se meten de lleno
+    en cada proyecto y les ayudan a contarlo de forma clara, visual y con calidad,
+    para que conecten con su público y logren sus objetivos de marca
+  video: /sites/default/files/2025-12/Entrevista%20MediaForm.MP4
+  web: ''
+  trabajadores:
+  - nombre: Juan Manuel Galdón Hernández
+    cargo: Fundador
+    linkedin: https://www.linkedin.com/in/juanmagaldonhernandez/
+    imagen: ''
+  - nombre: Javier Mollinedo Menéndez
+    cargo: Técnico audiovisual
+    linkedin: https://www.linkedin.com/in/javiermollinedo/
+    imagen: ''
+- startup: Oficina de Turismo Virtual
+  node_id: '187'
+  enlace_drupal: /node/187
+  logo: /sites/default/files/2025-12/Logo%20Blanco%20con%20fondo%20negro%20OFICINA%20DE%20TURISMO%20VIRTUAL.png
+  etiqueta: Gaming
+  etiqueta_url: /taxonomy/term/12
+  descripcion: La Oficina de Turismo Virtual es una web en la que tienen presencia
+    las ciudades más turísticas del sur de la provincia de Córdoba. En un solo sitio
+    las personas podrán visitar los lugares más turísticos casi como si estuvieran
+    allí mismo.
+  descripcion_larga: .
+  video: ''
+  web: https://oficinadeturismovirtual.com/
+  trabajadores:
+  - nombre: Jaime Montes González
+    cargo: Fundador
+    linkedin: ''
+    imagen: ''
+- startup: Rigoberto Studio
+  node_id: '189'
+  enlace_drupal: /node/189
+  logo: /sites/default/files/2025-12/RigobertoStudioLogo.png
+  etiqueta: Gaming
+  etiqueta_url: /taxonomy/term/12
+  descripcion: Rigoberto Studio es una empresa de soluciones VR con valor cultural.
+  descripcion_larga: .
+  video: /sites/default/files/2026-10/IVA%CC%81N_PABLO%20%282%29.mov
+  web: ''
+  trabajadores:
+  - nombre: Iván Cubillo Fuentes
+    cargo: Fundador
+    linkedin: ''
+    imagen: ''
+- startup: Crossbros Games
+  node_id: '190'
+  enlace_drupal: /node/190
+  logo: /sites/default/files/2025-12/CROSSBROS%20LOGO.png
+  etiqueta: Gaming
+  etiqueta_url: /taxonomy/term/12
+  descripcion: Estudio independiente desarrollando Heroes of Anirea, un Tactical RPG
+    con mecánicas roguelite de alta calidad
+  descripcion_larga: Los estudios independientes de videojuegos enfrentan dificultades
+    para consolidar su crecimiento y posicionarse en un mercado altamente competitivo.
+  video: /sites/default/files/2026-10/JOSE%CC%81_JAVIER.mov
+  web: https://crossbros.es
+  trabajadores:
+  - nombre: José Javier Pérez Cruz
+    cargo: Fundador
+    linkedin: ''
+    imagen: ''
+- startup: Escuela de español en línea para germanoparlantes
+  node_id: '191'
+  enlace_drupal: /node/191
+  logo: /sites/default/files/2025-12/Escuela%20de%20Espa%C3%B1ol.png
+  etiqueta: Gaming
+  etiqueta_url: /taxonomy/term/12
+  descripcion: Escuela 100% virtual que enseña español a germanoparlantes mediante
+    IA, realidad virtual y experiencias inmersivas
+  descripcion_larga: Escuela de español en línea nace en Jaén como una escuela de
+    español 100% virtual que conecta el mundo germanoparlante con la cultura española
+    mediante una enseñanza moderna, inmersiva e innovadora. A través de un modelo
+    híbrido B2C & B2B, ofrece cursos de español, programas profesionales e interculturales,
+    talleres culturales y cápsulas de autoaprendizaje basadas en inteligencia artificial.
+    El aprendizaje se desarrolla en un entorno digital inmersivo que integra realidad
+    virtual, experiencias en el metaverso y contenidos personalizados con IA generativa.
+    El proyecto combina excelencia académica, innovación tecnológica e identidad cultural
+    andaluza, posicionando a Jaén y Andalucía como referentes en turismo idiomático
+    y en experiencias educativas digitales de nueva generación
+  video: ''
+  web: http://www.hablamos-online.com
+  trabajadores:
+  - nombre: Sandra Carmona López
+    cargo: CEO y fundadora
+    linkedin: https://www.linkedin.com/in/sandrukaele/
+    imagen: ''
+- startup: DMG
+  node_id: '192'
+  enlace_drupal: /node/192
+  logo: /sites/default/files/2025-12/dmg-logo-negativo.png
+  etiqueta: Gaming
+  etiqueta_url: /taxonomy/term/12
+  descripcion: DMG es un estudio especializado en diseño y producción de contenidos
+    transmedia con tecnologías emergentes (IA, AR/VR)
+  descripcion_larga: Ante la saturación informativa, el problema de la falta de atención
+    y el cambio profundo en los hábitos de consumo, muchos creadores, instituciones
+    y marcas no disponen de los conocimientos, herramientas ni recursos necesarios
+    para adaptarse a este nuevo paradigma narrativo, lo que genera una brecha entre
+    la producción tradicional y las tendencias emergentes de comunicación digital.
+  video: ''
+  web: ''
+  trabajadores:
+  - nombre: David Martínez Guijarro
+    cargo: Fundador
+    linkedin: https://www.linkedin.com/in/david-mart%C3%ADnez-guijarro-b998b4233/
+    imagen: ''
+- startup: FQ Source
+  node_id: '193'
+  enlace_drupal: /node/193
+  logo: /sites/default/files/2025-12/FQSource%20Logo.png
+  etiqueta: Gaming
+  etiqueta_url: /taxonomy/term/12
+  descripcion: AI Agent especializado en aprovisionamiento industrial que conecta
+    compradores con proveedores verificados globalmente
+  descripcion_larga: FQ Source es un AI Agent especializado en aprovisionamiento industrial
+    que permite a los compradores definir sus necesidades técnicas en lenguaje natural,
+    descubrir proveedores verificados a nivel global y gestionar sus proyectos de
+    inversión en tecnología y maquinaria especializada. La plataforma combina búsqueda
+    semántica, evaluación técnica automatizada y flujos integrados de RFQ (Request
+    for Quotation).
+  video: /sites/default/files/2026-02/ARTURO_DAVID.mov
+  web: http://fqsource.com
+  trabajadores:
+  - nombre: Arturo López Riquelme
+    cargo: CEO
+    linkedin: https://www.linkedin.com/in/arturol%C3%B3pezriquelme/
+    imagen: ''
+  - nombre: David Bonillo Martínez
+    cargo: CEO
+    linkedin: https://www.linkedin.com/in/davidbonillomart%C3%ADnez/
+    imagen: ''
+  - nombre: Daniel Ruiz Abselam
+    cargo: Business developer
+    linkedin: https://www.linkedin.com/in/danielruizabselam/
+    imagen: ''
+- startup: Echo-Beasts
+  node_id: '202'
+  enlace_drupal: /node/202
+  logo: /sites/default/files/2026-02/1000282395%20%281%29.png
+  etiqueta: Gaming
+  etiqueta_url: /taxonomy/term/12
+  descripcion: Videojuego 2D Roguelite Creature-Collector donde el jugador asume el
+    papel de la criatura sin entrenador humano
+  descripcion_larga: Echo-Beasts propone un enfoque original dentro del género, presentando
+    un videojuego en 2D con vista cenital de tipo Roguelite y Creature-Collector en
+    el que desaparece la figura del entrenador humano. El jugador asume el papel de
+    la propia criatura, explorando un mundo con un lore profundo y misterioso. La
+    experiencia combina una jugabilidad adictiva y relajante, con un sistema de progresión
+    y recompensas equilibrado que potencia la libertad y la conexión directa con el
+    entorno del juego.
+  video: ''
+  web: https://www.artstation.com/meglind
+  trabajadores:
+  - nombre: Carlos Navarro
+    cargo: Diseñador
+    linkedin: https://www.linkedin.com/in/carlos-navarro-1a63b1186/
+    imagen: ''
+  - nombre: Roberto Martínez Fernández
+    cargo: Programador
+    linkedin: ''
+    imagen: ''
+- startup: DWT_DastX
+  node_id: '203'
+  enlace_drupal: /node/203
+  logo: /sites/default/files/2026-02/DWT%20%282%29.png
+  etiqueta: SmartMobility
+  etiqueta_url: /taxonomy/term/13
+  descripcion: Drones industriales para trabajos verticales en altura que eliminan
+    riesgo humano en inspecciones y mantenimiento
+  descripcion_larga: DWT ofrece una solución tecnológica basada en drones industriales
+    diseñados específicamente para realizar trabajos verticales en altura, eliminando
+    o reduciendo significativamente la necesidad de intervención humana directa en
+    situaciones de alto riesgo. Esta innovación surge de una experiencia universitaria
+    aplicada al sector aeronáutico, con el objetivo de transformar procedimientos
+    tradicionales inseguros, lentos y costosos. Los drones de DWT están pensados para
+    tareas como inspecciones, mantenimiento, limpieza o vigilancia de infraestructuras
+    complejas, ofreciendo una alternativa más segura, eficiente y económica frente
+    a los trabajos verticales manuales o con plataformas elevadoras. Su propuesta
+    se alinea con la normativa de prevención de riesgos laborales, al reducir la exposición
+    humana, y con la demanda creciente de soluciones inteligentes en movilidad aérea
+    e infraestructuras urbanas. DWT contribuye así a mejorar la seguridad operativa,
+    acelerar procesos técnicos, reducir costes estructurales y posicionar a las ciudades
+    y empresas como referentes en innovación aplicada al mantenimiento industrial,
+    ferroviario, energético o público. En un entorno cada vez más comprometido con
+    la eficiencia, la automatización y la sostenibilidad, DWT representa una nueva
+    forma de entender los trabajos en altura desde una lógica tecnológica, preventiva
+    y adaptable.
+  video: ''
+  web: https://www.dastx.es/
+  trabajadores:
+  - nombre: Juan Pablo Montoya
+    cargo: Founder
+    linkedin: https://www.linkedin.com/in/juan-pablo-montoya-2618252ba/
+    imagen: ''
+- startup: GeoBuses
+  node_id: '204'
+  enlace_drupal: /node/204
+  logo: /sites/default/files/2026-02/logo%20geobuses.png
+  etiqueta: SmartMobility
+  etiqueta_url: /taxonomy/term/13
+  descripcion: GeoBuses es una aplicación que muestra en tiempo real la ubicación
+    de los autobuses y los tiempos estimados de llegada, apoyándose en dispositivos
+    GPS embarcados y algoritmos de predicción para mejorar la experiencia del viajero
+    y la gestión municipal del servicio.
+  descripcion_larga: .
+  video: ''
+  web: https://geobuses.com/
+  trabajadores:
+  - nombre: Javier Fernández Verlasco
+    cargo: Co Founder
+    linkedin: https://www.linkedin.com/in/javier-fernandezvelasco/
+    imagen: ''
+- startup: Hidrozen
+  node_id: '205'
+  enlace_drupal: /node/205
+  logo: ''
+  etiqueta: Agrotech
+  etiqueta_url: /taxonomy/term/11
+  descripcion: Sistema de riego automatizado y autosuficiente energéticamente
+  descripcion_larga: Sensores de suelo conectados a sistema de IA para automatizar
+    riego, alimentado con energía solar para reducir costes y emisiones
+  video: ''
+  web: ''
+  trabajadores:
+  - nombre: Alexandra Chavarry Sagastegui
+    cargo: CEO
+    linkedin: https://www.linkedin.com/in/alexandra-chavarry-sagastegui-2b8734130/
+    imagen: ''
+- startup: TECO Mobility
+  node_id: '208'
+  enlace_drupal: /node/208
+  logo: /sites/default/files/2026-02/logo%20tecomobility.png
+  etiqueta: SmartMobility
+  etiqueta_url: /taxonomy/term/13
+  descripcion: Solución integral de e-bikes para hoteles y resorts con Tap & Rent
+    sin app, operación completa y revenue sharing
+  descripcion_larga: 'Solución integral de micromovilidad para hoteles, resorts y
+    puertos: despliegue de flotas de e-bikes propias, operación 360º (mantenimiento
+    y seguro) y plataforma de gestión con “Tap & Rent, no App” para alquiler instantáneo
+    con tarjeta. El hotel incorpora una amenidad sostenible con mínima carga operativa
+    y nueva línea de ingresos (revenue sharing/fee), mejorando la experiencia del
+    huésped y la imagen de sostenibilidad. Diferenciación: experiencia sin fricción
+    (sin registro ni app), implementación rápida, marca del hotel en vehículos y soporte
+    operativo dedicado.'
+  video: /sites/default/files/2026-02/tecomobility.MP4
+  web: https://www.tecomobility.com/
+  trabajadores:
+  - nombre: Miguel Ángel del Pino
+    cargo: CEO & Co Founder
+    linkedin: https://www.linkedin.com/in/miguelangeldelpino/
+    imagen: ''
+- startup: XAGRO
+  node_id: '249'
+  enlace_drupal: /startup/xagro
+  logo: /sites/default/files/2026-08/xAgro%20con%20letras%20fondo%20blanco-edit-20260128202955%20%282%29.jpg
+  etiqueta: Agrotech
+  etiqueta_url: /taxonomy/term/11
+  descripcion: XAGRO transforma el invernadero en una explotación conectada e inteligente
+    mediante una plataforma que integra IoT, monitorización, trazabilidad y cuaderno
+    digital para optimizar la producción, reducir pérdidas y facilitar el cumplimiento
+    de la normativa.
+  descripcion_larga: La propuesta de valor de xAgro es transformar el invernadero
+    en una explotación conectada, trazable y preparada para cumplir con la normativa
+    digital, sin obligar al agricultor a cambiar radicalmente su forma de trabajar.
+    Su valor diferencial está en unir datos ambientales, fertirrigación, asesoramiento
+    técnico, cuaderno digital, trazabilidad y aplicación fitosanitaria en un ecosistema
+    práctico, accesible y orientado al día a día del campo. Con ello, xAgro ayuda
+    a reducir pérdidas productivas, anticipar riesgos, optimizar el uso de insumos,
+    mejorar la trazabilidad ante cooperativas y retailers, y facilitar una agricultura
+    más eficiente, rentable y auditable.
+  video: /sites/default/files/2026-08/xAgro%20HQ.mov
+  web: https://www.xagro.org/
+  trabajadores:
+  - nombre: Paco Cantón
+    cargo: Founder
+    linkedin: https://www.linkedin.com/in/paco-cant%C3%B3n-90594533/
+    imagen: /sites/default/files/2026-08/1516543068945.jpg
+- startup: IDRASUR
+  node_id: '250'
+  enlace_drupal: /startup/idrasur
+  logo: /sites/default/files/2026-08/IDRA-LOGOS-34.png
+  etiqueta: Agrotech
+  etiqueta_url: /taxonomy/term/11
+  descripcion: IDRASUR ayuda a los agricultores a controlar desde el móvil el riego
+    de sus fincas para evitar pérdidas de agua y de producción gracias a sistemas
+    inteligentes que monitorizan y actúan automáticamente ante averías y con ello
+    proteger los cultivos.
+  descripcion_larga: IDRASUR permite al agricultor recuperar el control de su finca
+    sin tener que estar físicamente presente. Su propuesta de valor se basa en ofrecer
+    una solución accesible, autónoma y fácil de instalar que protege el cultivo, reduce
+    desplazamientos, evita pérdidas económicas y democratiza la automatización del
+    riego para agricultores que hasta ahora no podían permitirse este tipo de tecnología.
+  video: /sites/default/files/2026-08/Idra%20HQ.mov
+  web: https://www.idrasur.com/
+  trabajadores:
+  - nombre: Pablo Ruiz Fernández
+    cargo: Fundador y líder de proyecto
+    linkedin: https://www.linkedin.com/in/pablo-ruiz-fernandez-3b0361127/
+    imagen: /sites/default/files/2026-08/1763126193719.jpg
+- startup: VITANTECH BIOTECHNOLOGY
+  node_id: '251'
+  enlace_drupal: /startup/vitantech-biotechnology
+  logo: /sites/default/files/2026-08/VitaNTech.png
+  etiqueta: Agrotech
+  etiqueta_url: /taxonomy/term/11
+  descripcion: Gracias a sus bioestimulantes para plantas, VITANTECH BIOTECHNOLOGY
+    fortalece los cultivos para que soporten mejor la sequía y otras condiciones climáticas
+    difíciles, lo cual ayuda a los agricultores a producir más con menos agua y menos
+    productos químicos.
+  descripcion_larga: .
+  video: /sites/default/files/2026-08/VitaNtech%20HQ.mov
+  web: https://www.vitantechbio.com/
+  trabajadores:
+  - nombre: Maximino Manzanera Ruiz
+    cargo: Co fundador
+    linkedin: https://www.linkedin.com/in/mmaximino-manzanera/
+    imagen: ''
+- startup: AGROLABX
+  node_id: '252'
+  enlace_drupal: /startup/agrolabx
+  logo: /sites/default/files/2026-08/AgrolabX.png
+  etiqueta: Agrotech
+  etiqueta_url: /taxonomy/term/11
+  descripcion: La principal propuesta de AgrolabX es integrar en una sola plataforma
+    lo que hoy el agricultor tiene que ir a buscar en tres o cuatro sitios distintos
+    (sensores, clima, satélite) y convertirlo en datos y luego en una recomendación
+    accionable, no en otro dashboard más para revisar.
+  descripcion_larga: Ayuda al agricultor a reducir la incertidumbre, optimizar el
+    uso del agua y los recursos, anticiparse a problemas agronómicos y tomar mejores
+    decisiones sin depender solo de la intuición o de visitas constantes al campo.
+    Su enfoque sensor-agnóstico permite adaptarse a distintos cultivos, sensores,
+    presupuestos y sistemas de riego.
+  video: /sites/default/files/2026-08/Agrolabx%20HQ.mov
+  web: http://www.agrolabx.com/
+  trabajadores:
+  - nombre: Julian Peck
+    cargo: Co fundador
+    linkedin: https://www.linkedin.com/in/julian-peck/
+    imagen: /sites/default/files/2026-08/1775150208298.jpg
+- startup: BIO ABSOIL
+  node_id: '253'
+  enlace_drupal: /startup/bio-absoil
+  logo: /sites/default/files/2026-08/logo-bio-absoil.png
+  etiqueta: Logística Portuaria
+  etiqueta_url: /taxonomy/term/1
+  descripcion: BIO ABSOIL ayuda a los puertos a detectar y contener rápidamente los
+    derrames de hidrocarburos mediante un producto orgánico nattural que los absorbe,
+    con lo qu protege el medio ambiente y favorece la reutilización del derramee como
+    biocombustible.
+  descripcion_larga: BA MISIÓN APBA reduce drásticamente el tiempo de respuesta ante
+    derrames oleosos mediante sistemas autónomos preposicionados capaces de detectar
+    contaminación y actuar rápidamente.Combina protección ambiental, digitalización
+    portuaria y economía circular, transformando un problema ambiental en una oportunidad
+    de valorización energética de residuos.
+  video: /sites/default/files/2026-08/Bio%20Absoil%20HQ.mov
+  web: https://bioabsoil.com/
+  trabajadores:
+  - nombre: Santigo Miranda
+    cargo: Director general
+    linkedin: https://www.linkedin.com/in/santiago-miranda-palomino-83a5b080/
+    imagen: /sites/default/files/2026-08/1739863500370.jpg
+- startup: RECYTRACK
+  node_id: '254'
+  enlace_drupal: /startup/recytrack
+  logo: /sites/default/files/2026-08/Captura%20de%20pantalla%202026-08-07%20140002.png
+  etiqueta: Logística Portuaria
+  etiqueta_url: /taxonomy/term/1
+  descripcion: RECYTRACK digitaliza la gestión de los documentos de traslado de residuos
+    para automatizar los trámites, reducir el tiempo invertido y la carga administrativa
+    y eliminar el uso de papel en las empresas
+  descripcion_larga: Ahorras cientos de horas de compartir,archivar firmar y crear
+    archivos DCS
+  video: /sites/default/files/2026-08/Recytrack%20HQ.mov
+  web: https://recytrack.com/
+  trabajadores:
+  - nombre: Juan José Hernández
+    cargo: Desarrollo de negocio
+    linkedin: https://www.linkedin.com/in/juanjosehernandezf/
+    imagen: /sites/default/files/2026-08/1778173485393.jpg
+- startup: GO! PLANNER
+  node_id: '255'
+  enlace_drupal: /startup/go-planner
+  logo: /sites/default/files/2026-08/go%20planner%20logo.png
+  etiqueta: Logística Portuaria
+  etiqueta_url: /taxonomy/term/1
+  descripcion: Go!Planner digitaliza la gestión del transporte y la cadena de suministro
+    para ayudar a las empresas a planificar rutas, optimizar recursos y mejorar la
+    productividad, reduciendo costes, kilómetros en vacío y emisiones.
+  descripcion_larga: Go!Planner aporta a las empresas de transporte una plataforma
+    integral TMS/ERP con IA, integraciones y algoritmos de optimización para planificar
+    rutas, asignar recursos en tiempo real, controlar la trazabilidad y reducir costes,
+    kilómetros en vacío, consumos y emisiones, mejorando la productividad y el servicio
+    al cliente.
+  video: /sites/default/files/2026-08/Go%20Planner%20HQ.mov
+  web: https://go-planner.com/
+  trabajadores:
+  - nombre: Roberto Rodiel
+    cargo: CEO
+    linkedin: https://www.linkedin.com/in/roberto-rodiel-aragon-62a09a94/
+    imagen: /sites/default/files/2026-08/1700135049141.jpg
+- startup: ARCHIE
+  node_id: '256'
+  enlace_drupal: /startup/archie
+  logo: /sites/default/files/2026-08/logo_archie_claro.jpg
+  etiqueta: Logística Portuaria
+  etiqueta_url: /taxonomy/term/1
+  descripcion: ARCHIE Technologies ayuda a las empresas a automatizar el control del
+    inventario en sus almacenes y contenedores mediante robótica y visión artificial
+    para mejorar la precisión del stock y reducir el tiempo y los costes de gestión.
+  descripcion_larga: 'La principal diferenciación de ARCHIE es que no requiere proyecto
+    de implantación y en el caso de la competencia, esto no puede replicarse. Además,
+    ARCHIE aporta un valor diferencial por varios motivos: - Alta fiabilidad de los
+    resultados - Coste ajustado para clientes con márgenes estrechos - Escalabilidad
+    del dispositivo a distintos sites para un mismo cliente - Operación y UX adaptada
+    a la realidad de carretilleros'
+  video: /sites/default/files/2026-08/Archie%20HQ%20%281%29.mov
+  web: https://www.archietechnologies.com/
+  trabajadores:
+  - nombre: Guillermo Valero Maestro
+    cargo: Director de operaciones
+    linkedin: https://www.linkedin.com/in/guillermovalero/
+    imagen: /sites/default/files/2026-08/guillermo%20archie.jpg
+- startup: DOOBL
+  node_id: '257'
+  enlace_drupal: /startup/doobl
+  logo: /sites/default/files/2026-08/DOOBL_MAIN_ICON.png
+  etiqueta: SmartMobility
+  etiqueta_url: /taxonomy/term/13
+  descripcion: Doobl ayuda a los conductores urbanos a encontrar aparcamiento en menos
+    tiempo gracias a inteligencia artificial y la información compartida por otros
+    usuarios de forma que localizan plazas disponibles en tiempo real.
+  descripcion_larga: Menos vueltas y más vida, llegar a tiempo. Doobl reduce el tiempo
+    medio que los conductores urbanos pierden buscando sitio, una ineficiencia diaria
+    que ninguna herramienta actual resuelve y que se agrava con el crecimiento de
+    la densidad urbana.
+  video: /sites/default/files/2026-08/DOOBL%20HQ.mov
+  web: https://doobl.app/es
+  trabajadores:
+  - nombre: Mario Marques
+    cargo: Co-Founder / CFO
+    linkedin: https://www.linkedin.com/in/mario-marqu%C3%A9s-ram%C3%ADrez/
+    imagen: /sites/default/files/2026-08/mario%20marques.png
+- startup: LÚMINA SMART WAY
+  node_id: '258'
+  enlace_drupal: /startup/lumina-smart-way
+  logo: ''
+  etiqueta: SmartMobility
+  etiqueta_url: /taxonomy/term/13
+  descripcion: Lumina Smart Way fabrica elementos de seguridad vial inteligentes e
+    infraestructura vial premium de alta durabilidad con su polímero patentado poliflexi
+    100 % reciclado con tecnología solar que mejora la movilidad, la seguridad y la
+    gestión del tráfico.
+  descripcion_larga: Lumina Smart Way digitaliza la movilidad sostenible mediante
+    infraestructura vial inteligente. Proyectamos una planta en Andalucía para fabricar
+    dispositivos de seguridad y urbanismo táctico con polímeros 100% reciclados y
+    alta resistencia térmica. Diseñados como nodos IoT solares e inalámbricos, nuestros
+    productos capturan datos de tráfico en tiempo real, alimentando plataformas en
+    la nube para la gestión pública eficiente.
+  video: /sites/default/files/2026-08/Lumina%20Smart%20Way%20HQ.mov
+  web: ''
+  trabajadores:
+  - nombre: Ivonne Cuevas Torres
+    cargo: Founder & CEO
+    linkedin: https://www.linkedin.com/in/ivonne-eelman-cuevas-49a8b031/
+    imagen: /sites/default/files/2026-08/1728296970287.jpg
+- startup: CYBERCOP
+  node_id: '261'
+  enlace_drupal: /startup/cybercop
+  logo: /sites/default/files/2026-08/logo_0.png
+  etiqueta: Logística Portuaria
+  etiqueta_url: /taxonomy/term/1
+  descripcion: ACTISA utiliza robótica e inteligencia artificial para automatizar
+    la vigilancia y la asistencia en puertos, mejorar la seguridad detectando personas
+    o matrículas, la movilidad y la gestión de las instalaciones.
+  descripcion_larga: Nuestra propuesta integra robots autónomos y sistema SaaS de
+    gestión para entornos portuarios. Las plataformas robóticas disponen de un nivel
+    de conducción autónoma nivel 4, permitiendo operación autónoma con mínima intervención
+    de unas 10h. Cybercop está orientado a vigilancia 24/7, detección de incidencias
+    e integrar primeros auxilios mientras que i-Transit, a soporte de PMR. La plataforma
+    SaaS permite control y supervisión remota de la flota.
+  video: /sites/default/files/2026-08/Actisa%20HQ.mov
+  web: https://actisa.net/cybercop/?lang=es
+  trabajadores:
+  - nombre: Salvador Mansilla
+    cargo: Director técnico
+    linkedin: https://www.linkedin.com/in/salvador-mansilla-b1b59444/
+    imagen: /sites/default/files/2026-08/1760392602551.jpg
+- startup: Jaén International Storytelling & Translation (JIST)
+  node_id: '272'
+  enlace_drupal: /startup/jaen-international-storytelling-translation-jist
+  logo: ''
+  etiqueta: Gaming
+  etiqueta_url: /taxonomy/term/12
+  descripcion: Crea y adapta contenidos de comunicación y storytelling para conectar
+    culturas, acercar historias a distintos públicos y dar visibilidad a proyectos
+    a través de diferentes medios
+  descripcion_larga: Ante la dificultad para comunicar el valor de las empresas a
+    través de su contenido de forma clara, atractiva y accesible, así como para conectar
+    culturas y preservar el patrimonio cultural, JIST desarrolla estrategias y contenidos
+    de comunicación adaptados a diferentes públicos y medios, combinando storytelling,
+    marketing digital, traducción y subtitulación, producción de pódcast y creación
+    audiovisual para dar visibilidad a proyectos, acercar culturas y transmitir mensajes
+    con impacto.
+  video: /sites/default/files/2026-10/Jaen%20International%20HQ.mov
+  web: https://jaenaudiovisual.es/directorio-socios/mario-fernandez/
+  trabajadores:
+  - nombre: Mario Fernández Carrasco
+    cargo: Fundador
+    linkedin: https://www.linkedin.com/in/mario-fern%C3%A1ndez-carrasco-9862a2281/?isSelfProfile=false
+    imagen: ''
+- startup: BaseSport
+  node_id: '275'
+  enlace_drupal: /startup/basesport
+  logo: /sites/default/files/2026-10/1783973056877.jpeg
+  etiqueta: Gaming
+  etiqueta_url: /taxonomy/term/12
+  descripcion: BaseSport es una plataforma SaaS que conecta en un único ecosistema
+    digital a clubes, deportistas y profesionales (fisioterapeutas, nutricionistas)
+    para profesionalizar el seguimiento del rendimiento
+  descripcion_larga: Dada la gestión dispersa en papel o chats de los clubes deportivos,
+    BaseSport transforma datos en oportunidades con una herramienta de gestión y scouting
+    para los clubes basada en datos reales; para los deportistas supone lograr una
+    identidad digital verificada para impulsar su carrera y para los profesionales,
+    un canal directo para ofrecer sus servicios al nicho exacto
+  video: /sites/default/files/2026-10/BASESPORT%20HQ%20%281%29.mov
+  web: https://www.basesport.page/
+  trabajadores:
+  - nombre: Mario Sánchez Torres
+    cargo: Director, encargado de marketing y publicidad
+    linkedin: ''
+    imagen: ''
+  - nombre: Sergio García Carmona
+    cargo: Desarrollo informático
+    linkedin: https://www.linkedin.com/in/sergio-garc%C3%ADa-carmona-0bab533a1/
+    imagen: ''
+  - nombre: Juan Carlos Sánchez
+    cargo: Equipo legal y fiscal
+    linkedin: ''
+    imagen: ''
+  - nombre: Jorge Montoro
+    cargo: Equipo legal y fiscal
+    linkedin: ''
+    imagen: ''
+- startup: BARDTASTIC
+  node_id: '276'
+  enlace_drupal: /startup/bardtastic
+  logo: /sites/default/files/2026-10/1764863362275.jpeg
+  etiqueta: Gaming
+  etiqueta_url: /taxonomy/term/12
+  descripcion: BARDTASTIC es un roguelike deckbuilder en el que los jugadores construyen
+    su mazo para crear historias únicas y competir por conquistar al público, sustituyendo
+    el combate por creatividad y humor
+  descripcion_larga: El proyecto es un videojuego narrativo tipo deckbuilder en el
+    que los jugadores encarnan a bardos que compiten por contar las historias más
+    impresionantes en una taberna fantástica. A través de cartas que representan personajes,
+    eventos y aventuras, los jugadores construyen relatos únicos en cada partida.
+    La propuesta se diferencia de otros deckbuilders porque sustituye el combate tradicional
+    por un sistema centrado en la creatividad, el humor y la construcción de historias,
+    ofreciendo una experiencia original y altamente rejugable
+  video: /sites/default/files/2026-10/BARDTASTIC.mov
+  web: https://3dgoblindev.neocities.org/
+  trabajadores:
+  - nombre: Arturo Cáceres Arias
+    cargo: Fundador
+    linkedin: https://www.linkedin.com/in/arturo-cáceres-arias-27a8a5377/
+    imagen: ''
+- startup: DOORMAN
+  node_id: '277'
+  enlace_drupal: /startup/doorman
+  logo: ''
+  etiqueta: Gaming
+  etiqueta_url: /taxonomy/term/12
+  descripcion: Doorman es un estudio de videojuegos que desarrolla el videojuego indie
+    SuperZeroes desde Jaén a través de los softwares especializados como Godot y Krita
+  descripcion_larga: .
+  video: /sites/default/files/2026-10/Doorman%20HQ.mov
+  web: ''
+  trabajadores:
+  - nombre: Jorge Robles Calvo
+    cargo: Dirección artística
+    linkedin: https://www.linkedin.com/in/jorge-robles-calvo-267379341/?isSelfProfile=false
+    imagen: ''
+  - nombre: José Antonio Martínez Martín
+    cargo: Programación
+    linkedin: ''
+    imagen: ''
+  - nombre: Juan Antonio Fernández Gómez
+    cargo: Programación
+    linkedin: ''
+    imagen: ''
+- startup: ETERNO CABARET
+  node_id: '278'
+  enlace_drupal: /startup/eterno-cabaret
+  logo: ''
+  etiqueta: Gaming
+  etiqueta_url: /taxonomy/term/12
+  descripcion: Eterno Cabaret es un videojuego narrativo que transforma el lenguaje
+    del teatro en una experiencia de juego inmersiva mediante una estética inspirada
+    en el teatro de cartón y una narrativa y banda sonora propias para acercar la
+    cultura escénica a nuevos públicos
+  descripcion_larga: Su propuesta de valor radica en recuperar y trasladar los valores
+    culturales, estéticos y emocionales del teatro a nuevos formatos digitales dirigidos
+    a públicos contemporáneos
+  video: /sites/default/files/2026-10/Eterno%20Cabaret%20HQ.mov
+  web: ''
+  trabajadores:
+  - nombre: Alicia Pérez Marín
+    cargo: Game Designer
+    linkedin: https://www.linkedin.com/in/aliciaperezvideojuegos/?skipRedirect=true
+    imagen: ''
+- startup: Trovador
+  node_id: '279'
+  enlace_drupal: /startup/trovador
+  logo: ''
+  etiqueta: Gaming
+  etiqueta_url: /taxonomy/term/12
+  descripcion: Trovador es un videojuego de ritmo para PC desarrollado en Unity por
+    el estudio Libera Concordia, ambientado en la España del siglo XVI
+  descripcion_larga: Al ser rítmico-narrativo, combina música, exploración e historia
+    para poner en valor el patrimonio oral y musical español mediante una experiencia
+    interactiva única basada en la creación y transmisión de romances tradicionales
+  video: /sites/default/files/2026-10/91b894b6-3093-4e7f-8e17-adb16bbae7c9.MP4
+  web: ''
+  trabajadores:
+  - nombre: Gabriel Roade Gómez
+    cargo: Dirección creativa y ejecutiva
+    linkedin: https://www.linkedin.com/in/gabriel-roade-gomez/
+    imagen: ''
+  - nombre: Jorge Palma Ramírez
+    cargo: Dirección técnica
+    linkedin: ''
+    imagen: ''
+  - nombre: Xana Valeria Prudencio Lejsek
+    cargo: Dirección de arte
+    linkedin: https://www.linkedin.com/in/xana-prudencio-lejsek/
+    imagen: ''
+- startup: User Report
+  node_id: '280'
+  enlace_drupal: /startup/user-report
+  logo: ''
+  etiqueta: Gaming
+  etiqueta_url: /taxonomy/term/12
+  descripcion: User Report es un juego de terror e investigación con estilo retro
+    que ofrece una experiencia de terror investigativo que transforma cada pista,
+    cada escenario y cada revelación en una fuente de inquietud
+  descripcion_larga: En lugar de basarse únicamente en sustos, el juego desarrolla
+    una narrativa intensa en la cual el jugador se siente vulnerable ante fenómenos
+    inexplicables, los cuales debe intentar investigar y comprender
+  video: /sites/default/files/2026-10/Panopticon%20studios%20HQ.mov
+  web: ''
+  trabajadores:
+  - nombre: Alberto González Rosa
+    cargo: Project Manager y Programación
+    linkedin: https://www.linkedin.com/in/alberto-gonzalez-rosa/
+    imagen: ''
+  - nombre: Maria del Carmen Sánchez Gutiérrez
+    cargo: Artista
+    linkedin: ''
+    imagen: ''
+  - nombre: Oliver Montiel Ortega
+    cargo: Artista
+    linkedin: ''
+    imagen: ''
+  - nombre: Izan García Higueras
+    cargo: Modelaje 3D y Narrativa
+    linkedin: ''
+    imagen: ''
+- startup: Carrasco FPV
+  node_id: '281'
+  enlace_drupal: /startup/carrasco-fpv
+  logo: /sites/default/files/2026-10/CarrascoFPV_Color_blanco.jpg
+  etiqueta: SmartMobility
+  etiqueta_url: /taxonomy/term/13
+  descripcion: Carrasco FPV utiliza drones, inteligencia artificial y gemelos digitales
+    para inspeccionar buques antes de su llegada a puerto y detectar daños o facilitar
+    un mantenimiento más rápido, seguro y eficiente
+  descripcion_larga: A través de vuelos automatizados alrededor de la embarcación,
+    se capturan miles de imágenes que permiten generar una representación digital
+    completa del buque. Este gemelo digital facilita la evaluación remota del estado
+    estructural, la detección de daños visibles, deformaciones, corrosión, impactos
+    o anomalías en el casco y superestructuras, proporcionando información detallada
+    antes de las maniobras de atraque
+  video: /sites/default/files/2026-10/CARRASCO%20FPV%20HQ_v2.mov
+  web: ''
+  trabajadores:
+  - nombre: Francisco Carrasco Roman
+    cargo: Gerente
+    linkedin: https://www.linkedin.com/in/francisco-carrasco-9604575a/
+    imagen: ''
+- startup: SINAPSYSTEC
+  node_id: '282'
+  enlace_drupal: /startup/sinapsystec-0
+  logo: ''
+  etiqueta: Logística Portuaria
+  etiqueta_url: /taxonomy/term/1
+  descripcion: Su plataforma NEURALIS 2.0 usa inteligencia artificial que permite
+    a empresas y desarrolladores crear aplicaciones de IA de forma rápida y sencilla
+    para analizar datos, imágenes, vídeo, sonido o información de sensores, todo a
+    la vez, y activar mecanismos de seguridad y acceso a espacios
+  descripcion_larga: El producto de software consta de un constructor sin código/con
+    poco código, un entorno de ejecución de microservicios para diversas plataformas
+    de hardware y más de 240 módulos de inteligencia artificial de desarrollo propio
+  video: /sites/default/files/2026-10/Sinapsystec%20HQ.mov
+  web: ''
+  trabajadores:
+  - nombre: Oleg Garankin
+    cargo: CEO
+    linkedin: https://www.linkedin.com/in/oleg-garankin-7757931
+    imagen: ''
+  - nombre: Kira Garankina
+    cargo: Jefa de proyectos
+    linkedin: ''
+    imagen: ''
+- startup: WDTech Sensor and System SL
+  node_id: '283'
+  enlace_drupal: /startup/wdtech-sensor-and-system-sl
+  logo: /sites/default/files/2026-10/Imagen%2019-10-26%20a%20las%2012.39.jpg
+  etiqueta: Logística Portuaria
+  etiqueta_url: /taxonomy/term/1
+  descripcion: WDTech ofrece una solución integral de sensores inteligentes para monitorización
+    en tiempo real de calidad del aire, calidad del suelo y calidad del agua, lo cual
+    facilita datos precisos para mejorar la gestión ambiental, cumplir la agenda 2030
+    y mitigar el cambio climático
+  descripcion_larga: 'Toda la tecnología de los sensores de WDTech es propia. Esta
+    tecnología se ha desarrollado aplicando: 1. Microcontroladores de ultima generación.
+    2. Tecnología de comunicaciones IoT. 3. Software embebido propio. 4. Tecnologías
+    de última generación de desarrollo de backend y APP'
+  video: /sites/default/files/2026-10/MANOLO_GARCI%CC%81A_WDTech.mov
+  web: http://wdtech.io
+  trabajadores:
+  - nombre: Manuel García Pacheco
+    cargo: Owner
+    linkedin: http://www.linkedin.com/in/manuel-garc%C3%ADa-pacheco-70343b17
+    imagen: ''
+  - nombre: Jesús Rosado Rubiales
+    cargo: Proyect Manager
+    linkedin: https://www.linkedin.com/in/antonio-jes%C3%BAs-rosado-rubiales-441759125/?isSelfProfile=false
+    imagen: ''
+  - nombre: Daniel Fernández
+    cargo: Ingeniero Diseño Industrial y Desarrollo del Producto
+    linkedin: https://www.linkedin.com/in/%F0%9F%93%90daniel-fern%C3%A1ndez-1631402a8/?isSelfProfile=false
+    imagen: ''
+- startup: HYDRONEXTGEN
+  node_id: '285'
+  enlace_drupal: /startup/hydronextgen
+  logo: ''
+  etiqueta: SmartMobility
+  etiqueta_url: /taxonomy/term/13
+  descripcion: Desarrollan una solución portable de energía renovable para sustituir
+    grupos electrógenos, enfocada en movilidad, eventos y construcción
+  descripcion_larga: .
+  video: /sites/default/files/2026-10/Hydronext%20HQ.mov
+  web: ''
+  trabajadores:
+  - nombre: Pedro Manjón Espejo
+    cargo: Founder
+    linkedin: https://www.linkedin.com/in/pedro-manj%C3%B3n-espejo-21b2411a/
+    imagen: ''
+  - nombre: Pedro Cordonié
+    cargo: Founder
+    linkedin: https://www.linkedin.com/in/pedro-cordoni%C3%A9-755202348/
+    imagen: ''
+- startup: BIOTFY
+  node_id: '287'
+  enlace_drupal: /startup/biotfy
+  logo: /sites/default/files/2026-10/biotfy_isotipo_color_fondo-blanco.png
+  etiqueta: SmartMobility
+  etiqueta_url: /taxonomy/term/13
+  descripcion: Biotfy ayuda a empresas e instituciones a monitorizar y gestionar su
+    impacto ambiental desde una única plataforma que integra datos en tiempo real
+    e inteligencia artificial para automatizar el análisis y los informes ESG. Integran
+    herramientas sin esfuerzo, permitiéndole tomar decisiones rápidas y basadas en
+    datos para mejorar los esfuerzos de sostenibilidad
+  descripcion_larga: Plataforma todo en uno para obtener información ambiental en
+    tiempo real. Centralizar todos los datos en un solo lugar para una gestión simplificada.
+    Obtener información en tiempo real a través de paneles personalizables, automatizando
+    la recolección, el procesamiento y la generación de informes ESG
+  video: /sites/default/files/2026-10/Biotfy%20HQ.mov
+  web: ''
+  trabajadores:
+  - nombre: Jesús Sancho Giaever
+    cargo: CEO
+    linkedin: https://www.linkedin.com/in/jes%C3%BAs-sancho-giaever-1aa44a169/
+    imagen: ''
+- startup: MACAON_IA
+  node_id: '288'
+  enlace_drupal: /startup/macaonia
+  logo: ''
+  etiqueta: SmartMobility
+  etiqueta_url: /taxonomy/term/13
+  descripcion: MACAON IA o también conocido como PATRIMONIA, desarrollada por Macaon
+    Ideas Inmersivas Inclusivas, integra inteligencia artificial conversacional y
+    realidad aumentada para optimizar la movilidad peatonal y la experiencia del visitante
+  descripcion_larga: 'Su elemento diferencial radica en la capacidad de transformar
+    la interacción usuario-entorno mediante avatares inteligentes que ofrecen asistencia
+    multilingüe y accesible en tiempo real, lo cual facilita una distribución eficiente
+    de los flujos turísticos desde nodos críticos como terminales de cruceros hacia
+    el tejido urbano. Esta solución no solo enriquece la interpretación cultural,
+    sino que actúa como una herramienta operativa de alto impacto para gestores municipales
+    y portuarios: gracias a su integración con sensórica IoT de conteo y analítica
+    de datos en vivo, permite monitorizar afluencias, descongestionar zonas saturadas
+    y redifundir el tráfico peatonal hacia áreas comerciales o rutas alternativas'
+  video: /sites/default/files/2026-10/MacaonIA%20HQ.mov
+  web: https://www.macaon.org/
+  trabajadores:
+  - nombre: Nacho Gutiérrez
+    cargo: CEO
+    linkedin: ''
+    imagen: ''
+- startup: OCEANBOX
+  node_id: '289'
+  enlace_drupal: /startup/oceanbox
+  logo: /sites/default/files/2026-10/Logo_OceanBox.png
+  etiqueta: SmartMobility
+  etiqueta_url: /taxonomy/term/13
+  descripcion: OceanBox permite a los bañistas de la Costa de Sol guardar sus pertenencias
+    de forma segura en la playa mediante taquillas inteligentes disponibles 24/7,
+    con acceso digital, pago por uso y carga de móvil integrada
+  descripcion_larga: Resuelve la falta de espacios seguros donde los bañistas puedan
+    custodiar móviles, carteras y llaves, mediante módulos automatizados, resistentes
+    al entorno marino y con acceso digital. Operación 24/7 sin personal, pago por
+    uso, escalable a otras playas, festivales y eventos urbanos
+  video: /sites/default/files/2026-10/Ocean%20Box%20HQ.mov
+  web: ''
+  trabajadores:
+  - nombre: Alejandro Chaves Nievas
+    cargo: CEO
+    linkedin: http://www.linkedin.com/in/alejandrochavesnievas
+    imagen: ''
+  - nombre: José Emilio Chaves Nievas
+    cargo: COO
+    linkedin: ''
+    imagen: ''
+  - nombre: Luis Crovetto Delgado
+    cargo: CFO
+    linkedin: ''
+    imagen: ''
+  - nombre: Aspet Tadevosyan Asatryan
+    cargo: CPO
+    linkedin: ''
+    imagen: ''
+- startup: Tourli
+  node_id: '290'
+  enlace_drupal: /startup/tourli
+  logo: ''
+  etiqueta: SmartMobility
+  etiqueta_url: /taxonomy/term/13
+  descripcion: Tourli transforma las visitas turísticas típicas de los free tours
+    en recorridos autoguiados e interactivos que ayudan a descubrir la ciudad a tu
+    ritmo, sin horarios rígidos, mientras distribuye mejor el flujo de visitantes
+    y ofrece a los destinos datos para gestionar el turismo de forma más sostenible
+  descripcion_larga: Su plataforma de recorridos autoguiados integra geolocalización
+    precisa, contenidos contextuales y dinámicas de gamificación para incentivar la
+    exploración activa. Su diferencial estratégico radica en la capacidad para optimizar
+    la gestión de flujos peatonales en las ciudades, lo cual mitiga la saturación
+    de zonas críticas y fomenta una movilidad a demanda que reduce la dependencia
+    de grupos organizados y guías presenciales
+  video: /sites/default/files/2026-10/Tourli%20HQ_0.mov
+  web: ''
+  trabajadores:
+  - nombre: Enrique Fernández Velasco
+    cargo: CEO
+    linkedin: ''
+    imagen: ''
+- startup: TURBINEH - OPTIMIZE
+  node_id: '291'
+  enlace_drupal: /startup/turbineh-optimize
+  logo: /sites/default/files/2026-10/Turbineh.png
+  etiqueta: SmartMobility
+  etiqueta_url: /taxonomy/term/13
+  descripcion: TurbineH Optimize es una plataforma que hace que cualquier uso de IA
+    sea más barato, más seguro y más eficiente.
+  descripcion_larga: 'Optimize reduce costes de infraestructura GPU y de consumo de
+    tokens, securiza modelos contra ataques y genera documentación de compliance —
+    todo mediante instrucciones en lenguaje natural, sin necesidad de expertise técnico.
+    El primer resultado es gratuito. Sin riesgo, sin barrera de entrada. Para empresas
+    con modelos propios: optimización automática para GPUs NVIDIA, reduciendo costes
+    de inferencia hasta un 73%. Para usuarios de herramientas como ChatGPT o Claude:
+    un agente que pre-procesa cada prompt para consumir un 50%+ menos de tokens'
+  video: /sites/default/files/2026-10/Turbineh%20HQ.mov
+  web: ''
+  trabajadores:
+  - nombre: Alejandro Ruiz Lara
+    cargo: Co-Founder
+    linkedin: https://www.linkedin.com/in/alejandroruizlara
+    imagen: ''
+  - nombre: Expedito Salvador Obiang Avomo
+    cargo: CTO & Co-Founder
+    linkedin: ''
+    imagen: ''
+- startup: Go Windy
+  node_id: '292'
+  enlace_drupal: /startup/go-windy
+  logo: /sites/default/files/2026-10/Go%20windy.jpg
+  etiqueta: SmartMobility
+  etiqueta_url: /taxonomy/term/13
+  descripcion: GoWindy permite a los hoteles ofrecer a sus huéspedes motos eléctricas
+    para moverse por el destino de forma cómoda y sostenible, con lo que mejora su
+    experiencia sin que el alojamiento tenga que asumir la inversión ni la gestión
+    del servicio
+  descripcion_larga: GoWindy convierte la movilidad turística en un servicio cómodo,
+    sostenible y totalmente integrado en el alojamiento. De esta forma, los viajeros
+    pueden desplazarse fácilmente sin coche y los hoteles y glampings pueden ofrecer
+    una experiencia diferencial sin asumir inversión ni complejidad operativa
+  video: /sites/default/files/2026-10/Go%20Windy%20HQ.mov
+  web: ''
+  trabajadores:
+  - nombre: Cristina Pérez Mendoza
+    cargo: Cofundadora
+    linkedin: http://www.linkedin.com/in/cristinaperez492028b9
+    imagen: ''
+  - nombre: Daniel Pérez
+    cargo: Co-fundador
+    linkedin: ''
+    imagen: ''
